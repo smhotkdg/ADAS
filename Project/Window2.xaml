@@ -1,0 +1,34 @@
+﻿<Window x:Class="Project.Window2"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Window2" Height="300" Width="400">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+
+        </Grid.ColumnDefinitions>
+        
+        <Button Name="MyTextDanger"  MouseDoubleClick="Button_MouseDoubleClick_1"> 위험</Button>
+        <Button Name="MyTextOil"     MouseDoubleClick="Button_MouseDoubleClick_2" Grid.Row="1" >앞에차와 가깝습니다.</Button>
+        <Button Name="MyTextSleep"   MouseDoubleClick="Button_MouseDoubleClick_3" Grid.Row="2">거리유지 하세요</Button>
+        <Button Name="speed30" Grid.Row="0" Grid.Column="2" Click="speed30_Click">30</Button>
+        <Button Name="speed50" Grid.Row="1" Grid.Column="2" Click="speed50_Click">50</Button>
+        <Button Name="speed80" Grid.Row="2" Grid.Column="2" Click="speed80_Click">80</Button>
+        <Button Name="Aheadof" Grid.Row="0" Grid.Column="1" Click="Aheadof_Click">요철</Button>
+        <Button Name="crosswalk" Grid.Row="1" Grid.Column="1" Click="crosswalk_Click">횡당보도</Button>
+        <Button Name="speed100" Grid.Row="2" Grid.Column="1" Click="speed100_Click">100</Button>
+        <Button Name="failrocks" Grid.Column="3" Click="failrocks_Click">추락주의</Button>
+        <Button Name="drop" Grid.Row="1" Grid.Column="3" Click="drop_Click">낙석주의</Button>
+        <Button Grid.Row="2" Grid.Column="3" ></Button>
+
+    </Grid>
+</Window>

@@ -1,0 +1,80 @@
+﻿<Window  x:Class="Project.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:uc1 ="clr-namespace:Project"
+        xmlns:uc2 ="clr-namespace:Project"
+        xmlns:uc3 ="clr-namespace:Project"
+        xmlns:uc4 ="clr-namespace:Project"
+        xmlns:uc5 ="clr-namespace:Project"
+        xmlns:uc6 ="clr-namespace:Project"
+        xmlns:uc7 ="clr-namespace:Project"
+        xmlns:uc8 ="clr-namespace:Project"
+        xmlns:uc9 ="clr-namespace:Project"
+        xmlns:uc10="clr-namespace:Project"
+        xmlns:uc11="clr-namespace:Project"
+        xmlns:uc12="clr-namespace:Project" 
+    Title="Window1" Height="520" Width="650" WindowStyle="None" Name="aa" Left="700" Top="70" AllowsTransparency="True"  Background="Transparent" Closed="AAClosed" KeyDown="aa_KeyDown">
+    <Grid Height="500"  Width="600" HorizontalAlignment="Left" VerticalAlignment="Top">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition ></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            
+            
+            <ColumnDefinition></ColumnDefinition>
+
+            <ColumnDefinition Width="200"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="53*"></RowDefinition>
+            <RowDefinition Height="53*"></RowDefinition>
+            <RowDefinition Height="53*"></RowDefinition>
+            <RowDefinition Height="53*"></RowDefinition>
+            <RowDefinition Height="53*"></RowDefinition>
+            <RowDefinition Height="53*"></RowDefinition>
+            <RowDefinition Height="53*"></RowDefinition>
+            <RowDefinition Height="52.766*" />
+        </Grid.RowDefinitions>
+        <Grid.Background>
+            <ImageBrush ></ImageBrush>
+        </Grid.Background>
+        
+        <Rectangle Fill="Violet" Name="VioletColor" Grid.Row="0" Visibility="Hidden"></Rectangle>
+        <Rectangle Fill="Silver" Name="SilverColor" Visibility="Hidden" MouseLeftButtonDown="SilverColor_MouseLeftButtonDown"></Rectangle>
+        
+        <Label Visibility="Visible"  Name="MyMainMenu" Grid.Row="6"  HorizontalContentAlignment="Center"  VerticalContentAlignment="Center" FontSize="40"   MouseDoubleClick="Label_MouseDoubleClick" FontWeight="ExtraBold" Foreground="Green" Grid.ColumnSpan="2" Margin="0,18,49,16.84" Grid.RowSpan="2" Opacity="0.7" >메뉴</Label>
+        <Label MouseDoubleClick="MyAudio_MouseDoubleClick" Visibility="Hidden" Name="MyAudio" Grid.Column="5" Grid.Row="1" HorizontalContentAlignment="Center" FontSize="30" FontWeight="ExtraBold" Foreground="Green" Margin="0,1,0,0" Opacity="0.7" >오디오</Label>
+        <uc1:Audio Grid.Column="5" x:Name="MyAudios" Visibility="Hidden" Grid.RowSpan="8" Margin="0,11.5"></uc1:Audio>
+        <Label Visibility="Hidden" Name="MYAirCon" Grid.Column="5" Grid.Row="3" HorizontalContentAlignment="Center" FontSize="30" FontWeight="ExtraBold" Foreground="Green" MouseDoubleClick="MYAirCon_MouseDoubleClick" Margin="0,11,0,48" Grid.RowSpan="2" Opacity="0.7" >에어콘</Label>
+        <uc2:AirCon    Grid.Column="5" x:Name="MyAircons" Visibility="Hidden" Grid.RowSpan="8" Margin="0,11.5"></uc2:AirCon>
+        
+        <Label Visibility="Hidden" Grid.Row="5" HorizontalContentAlignment="Center" FontSize="30" FontWeight="ExtraBold" Foreground="Green" MouseDoubleClick="MyNavigation_MouseDoubleClick" Name="MyNavigation" Margin="0,7,0,57" Grid.Column="5" Grid.RowSpan="2" Opacity="0.7" >설정</Label>
+        <Label Visibility="Hidden" Grid.Row="6" VerticalContentAlignment="Center"  HorizontalContentAlignment="Center" FontSize="30" MouseDoubleClick="Followme_MouseDoubleClick"  FontWeight="ExtraBold" Foreground="Green"  Name="Followme" Margin="78.75,51.25,1.25,12.5" Grid.ColumnSpan="2" Grid.Column="4" Grid.RowSpan="2" Opacity="0.7">팔로우미</Label>
+
+        <Label Visibility="Hidden" Name="S_size" Grid.Column="5" Grid.Row="1" HorizontalContentAlignment="Center" FontSize="30" FontWeight="ExtraBold" Foreground="Green" MouseDoubleClick="S_size_MouseDoubleClick" Opacity="0.7" > 글자크기</Label>
+        <Label Visibility="Hidden" Name="S_color" Grid.Column="5" Grid.Row="3" HorizontalContentAlignment="Center" FontSize="30" FontWeight="ExtraBold" Foreground="Green" MouseDoubleClick="S_color_MouseDoubleClick" Margin="0,31.25" Grid.RowSpan="2" Opacity="0.7" >글자색</Label>
+        <Label  Visibility="Hidden" Name="S_position" Grid.Column="5" Grid.Row="5" HorizontalContentAlignment="Center" FontSize="30" FontWeight="ExtraBold" Foreground="Green" MouseDoubleClick="S_position_MouseDoubleClick" Margin="0,40,0,22.5" Grid.RowSpan="2" Opacity="0.7" >화면위치</Label>
+        <uc3:Setting  Grid.Column="5" x:Name="settings" Margin="0,51.18,0,0" Grid.RowSpan="8" Visibility="Hidden" Height="400" VerticalAlignment="Top"></uc3:Setting>
+        
+        <Label Name="MyMeasure"  Grid.Column="1" Grid.Row="4"  VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="40" Foreground="Green" FontWeight="Heavy" Grid.ColumnSpan="5" Margin="0,27,188.4,11" Grid.RowSpan="2" MouseDoubleClick="MyMeasure_MouseDoubleClick" MouseLeftButtonDown="MyMeasure_MouseLeftButtonDown" Opacity="0.7">km/h</Label>
+        <Label Visibility="Visible" Name="MyCheckedBackCar" Grid.Row="7"  VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="40" Foreground="Green" FontWeight="Heavy" Loaded="MyCheckedBackCar_Loaded" Margin="-275,22,0,29" HorizontalAlignment="Left" Width="17"></Label>
+      
+        
+        <Label Visibility="Hidden" Name="danger" Grid.Row="6"  VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="40" Foreground="Red" FontWeight="Heavy" Grid.ColumnSpan="4" Margin="37,54,43,-1" Grid.RowSpan="2" Grid.Column="1" Opacity="0.7" >위험!!</Label>
+        <Label Visibility="Hidden" Name="oil" Grid.Row="6"  VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="40" Foreground="Red" FontWeight="Heavy" Grid.ColumnSpan="6" Margin="52.6,56,133,-4" Grid.RowSpan="2" Opacity="0.7"  >앞차와 가깝습니다.</Label>
+        <Label Visibility="Hidden" Name="sleep" Grid.Row="6"  VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="40" Foreground="Red" FontWeight="Heavy" Grid.ColumnSpan="5" Margin="78,56,8,-3" Grid.RowSpan="2" Opacity="0.7"  >차선이탈</Label>
+        
+        <Grid Name="mygridWinPo" Grid.RowSpan="8" Grid.Column="5">
+            <uc4:WindowPosition  x:Name="uc_windowposition" Visibility="Hidden" Grid.Column="5" Margin="0,0,0,37.742" Grid.RowSpan="7"></uc4:WindowPosition>
+            <uc5:WindowFontSize  x:Name="uc_windowfontsize" Visibility="Hidden" Grid.Column="5" Margin="0,0,0,37.742" Grid.RowSpan="7" ></uc5:WindowFontSize>
+        </Grid>
+        <uc6:WindowColor x:Name="uc_windowcolor" Visibility="Hidden" Margin="78.75,49,1.25,51" Grid.ColumnSpan="2" Grid.RowSpan="8" Grid.Column="4" Opacity="1"></uc6:WindowColor>
+        <uc7:UFrontOfCar x:Name="u_frontofcar" Grid.Column="1"  FontSize="40" Foreground="Green" FontWeight="Heavy" Grid.ColumnSpan="4"  Grid.RowSpan="3" MouseDoubleClick="u_frontofcar_MouseDoubleClick" MouseLeftButtonDown="u_frontofcar_MouseLeftButtonDown" Margin="12,8,8,60" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Grid.Row="1"></uc7:UFrontOfCar>
+        <uc8:UMySpeed  Opacity="0.7"  x:Name="u_myspeed" Grid.Column="1" Grid.Row="3" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="40" Foreground="Green"  FontWeight="Heavy" Grid.ColumnSpan="4" Margin="12,6,8,19" Grid.RowSpan="2"></uc8:UMySpeed>
+        <uc9:UFollowMe Visibility="Hidden" x:Name="u_followme" Grid.Column="4" Grid.ColumnSpan="2" Margin="78,31.741,2,6" Grid.RowSpan="7"></uc9:UFollowMe>
+        <uc10:UTrafficSign x:Name="u_trafficsign" Grid.ColumnSpan="2" Margin="0,40.104,60,35.103" Grid.RowSpan="6" Grid.Row="1"></uc10:UTrafficSign>
+        <uc11:SpeedTrackBar Grid.Column="1" Grid.ColumnSpan="4" Margin="63,0,57,0" Height="13" VerticalAlignment="Top" Grid.Row="1"></uc11:SpeedTrackBar>
+        <uc12:MessageOfSpeed x:Name="messageofspeed" Grid.ColumnSpan="6" Margin="32,56,88,-1" Grid.Row="6" Grid.RowSpan="2" Opacity="0.7"></uc12:MessageOfSpeed>
+    </Grid>
+</Window>

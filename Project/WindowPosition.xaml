@@ -1,0 +1,23 @@
+﻿<UserControl x:Class="Project.WindowPosition"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Height="400" Width="200" Loaded="UserControl_Loaded" >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Label Opacity="0.7" Visibility="Visible"  Name="viewposition" Grid.Row="0" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="30" FontWeight="ExtraBold" Foreground="Green" Margin="0,1,0,99" Grid.RowSpan="2" Grid.ColumnSpan="3" MouseDoubleClick="Label_MouseDoubleClick"  >화면위치</Label>
+        <Label Opacity="0.7" Visibility="Visible"  Name="viewup" Grid.Row="1" Grid.Column="1" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="30" FontWeight="ExtraBold" Foreground="Green" MouseLeftButtonDown="viewup_MouseLeftButtonDown" >상</Label>
+        <Label Opacity="0.7"  Visibility="Visible"  Name="viewdown" Grid.Row="3" Grid.Column="1" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="30" FontWeight="ExtraBold" Foreground="Green" MouseLeftButtonDown="viewdown_MouseLeftButtonDown" >하</Label>
+        <Label Opacity="0.7" Visibility="Visible"  Name="viewleft" Grid.Row="2" Grid.Column="0" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="30" FontWeight="ExtraBold" Foreground="Green" MouseLeftButtonDown="viewleft_MouseLeftButtonDown" >좌</Label>
+        <Label Opacity="0.7"  Visibility="Visible" Name="viewright" Grid.Row="2" Grid.Column="2" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="30" FontWeight="ExtraBold" Foreground="Green" MouseLeftButtonDown="viewright_MouseLeftButtonDown" >우</Label>
+    </Grid>
+</UserControl>

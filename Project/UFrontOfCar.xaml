@@ -1,0 +1,25 @@
+﻿<UserControl x:Class="Project.UFrontOfCar"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+     Height="120" Width="300" Loaded="UserControl_Loaded">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition ></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Label Opacity="0.7" Grid.Row="0" Name="MyFontOfCar" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="40" Foreground="Green" FontWeight="Heavy" >거리</Label>
+        <Label Opacity="0.7" Grid.Row="0" Grid.Column="1" Name="t1" FontSize="40" Foreground="Green" FontWeight="Heavy"></Label>
+        <Label Opacity="0.7" Grid.Row="1" Name="MyFontOfCarSpeed" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="40" Foreground="Green" FontWeight="Heavy" >속도</Label>
+        <Label Opacity="0.7" Grid.Row="1" Grid.Column="1" Name="t2" FontSize="40" Foreground="Green" FontWeight="Heavy"></Label>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions></Grid.RowDefinitions>
+        </Grid>
+    </Grid>
+</UserControl>

@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2C291E30-A368-4206-939E-888A4C4BBAEE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Project</RootNamespace>
+    <AssemblyName>Project</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Window1.xaml.cs">
+      <DependentUpon>Window1.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AirCon.xaml.cs">
+      <DependentUpon>AirCon.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Audio.xaml.cs">
+      <DependentUpon>Audio.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AudioSound.cs" />
+    <Compile Include="Class2.cs" />
+    <Compile Include="Colorss.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gesture.cs" />
+    <Compile Include="GpsCalc.cs" />
+    <Compile Include="MyDocument.cs" />
+    <Compile Include="Navigation.xaml.cs">
+      <DependentUpon>Navigation.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Service References\ServiceReference1\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Setting.xaml.cs">
+      <DependentUpon>Setting.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="SpeedTrackBar.xaml.cs">
+      <DependentUpon>SpeedTrackBar.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Tempreture.cs" />
+    <Compile Include="TrueFalse.cs" />
+    <Compile Include="UBackCar.xaml.cs">
+      <DependentUpon>UBackCar.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UFollowMe.xaml.cs">
+      <DependentUpon>UFollowMe.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UFrontOfCar.xaml.cs">
+      <DependentUpon>UFrontOfCar.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UMySpeed.xaml.cs">
+      <DependentUpon>UMySpeed.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl1.xaml.cs">
+      <DependentUpon>UserControl1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UTrafficSign.xaml.cs">
+      <DependentUpon>UTrafficSign.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="volums.cs" />
+    <Compile Include="Window2.xaml.cs">
+      <DependentUpon>Window2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="WindowColor.xaml.cs">
+      <DependentUpon>WindowColor.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="WindowFontSize.xaml.cs">
+      <DependentUpon>WindowFontSize.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="WindowPosition.xaml.cs">
+      <DependentUpon>WindowPosition.xaml</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\airhorn.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Resources\Turtle.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\ServiceReference1\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\ServiceReference1\Service1.disco" />
+    <None Include="Service References\ServiceReference1\Service1.wsdl" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\ServiceReference1\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\ServiceReference1\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\ServiceReference1\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ItemGroup>
+    <ReferencePath Include="bin\Debug\GesturesLib.dll" />
+    <ReferencePath Include="bin\Debug\Interop.SpeechLib.dll" />
+    <ReferencePath Include="..\..\..\..\My Documents\OpenCv\OpenCv설정파일\OCS 2.1\OpenCvSharp.Blob.dll" />
+    <ReferencePath Include="..\..\..\..\My Documents\OpenCv\OpenCv설정파일\OCS 2.1\OpenCvSharp.dll" />
+    <ReferencePath Include="..\..\..\..\My Documents\OpenCv\OpenCv설정파일\OCS 2.1\OpenCvSharp.Extensions.dll" />
+    <ReferencePath Include="..\..\..\..\My Documents\OpenCv\OpenCv설정파일\OCS 2.1\OpenCvSharp.UserInterface.dll" />
+    <ReferencePath Include="C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.0\PresentationCore.dll" />
+    <ReferencePath Include="C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.0\PresentationFramework.dll" />
+    <ReferencePath Include="bin\Debug\SpeachDll.dll" />
+    <ReferencePath Include="C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.5\System.Core.dll" />
+    <ReferencePath Include="C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.5\System.Data.DataSetExtensions.dll" />
+    <ReferencePath Include="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\System.Data.dll" />
+    <ReferencePath Include="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\System.dll" />
+    <ReferencePath Include="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\System.Drawing.dll" />
+    <ReferencePath Include="C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.0\System.Runtime.Serialization.dll" />
+    <ReferencePath Include="C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.0\System.ServiceModel.dll" />
+    <ReferencePath Include="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\System.Windows.Forms.dll" />
+    <ReferencePath Include="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\System.Xml.dll" />
+    <ReferencePath Include="C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.5\System.Xml.Linq.dll" />
+    <ReferencePath Include="C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.0\UIAutomationProvider.dll" />
+    <ReferencePath Include="C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.0\WindowsBase.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\AirCon.g.cs" />
+    <Compile Include="C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\Audio.g.cs" />
+    <Compile Include="C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\Navigation.g.cs" />
+    <Compile Include="C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\Setting.g.cs" />
+    <Compile Include="C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\SpeedTrackBar.g.cs" />
+    <Compile Include="C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\UBackCar.g.cs" />
+    <Compile Include="C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\UFollowMe.g.cs" />
+    <Compile Include="C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\UFrontOfCar.g.cs" />
+    <Compile Include="C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\UMySpeed.g.cs" />
+    <Compile Include="C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\UserControl1.g.cs" />
+    <Compile Include="C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\UTrafficSign.g.cs" />
+    <Compile Include="C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\Window1.g.cs" />
+    <Compile Include="C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\Window2.g.cs" />
+    <Compile Include="C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\WindowColor.g.cs" />
+    <Compile Include="C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\WindowFontSize.g.cs" />
+    <Compile Include="C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\WindowPosition.g.cs" />
+    <Compile Include="C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\App.g.cs" />
+    <Compile Include="C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\GeneratedInternalTypeHelper.g.cs" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,13 @@
+﻿<UserControl x:Class="Project.UMySpeed"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+     Height="100" Width="300" Loaded="UserControl_Loaded">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+           
+        </Grid.ColumnDefinitions>
+        <Label Name="MyCarSpeed" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="40" Foreground="Green" FontWeight="Heavy" ></Label>
+        
+    </Grid>
+</UserControl>

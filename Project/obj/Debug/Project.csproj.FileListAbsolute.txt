@@ -1,0 +1,1557 @@
+C:\Documents and Settings\admin\바탕 화면\Project\Project\bin\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\Project\Project\bin\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\Project\Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\바탕 화면\Project\Project\obj\Debug\UserControl1.baml
+C:\Documents and Settings\admin\바탕 화면\Project\Project\obj\Debug\UserControl1.g.cs
+C:\Documents and Settings\admin\바탕 화면\Project\Project\obj\Debug\Window1.g.cs
+C:\Documents and Settings\admin\바탕 화면\Project\Project\obj\Debug\App.g.cs
+C:\Documents and Settings\admin\바탕 화면\Project\Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\admin\바탕 화면\Project\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Documents and Settings\admin\바탕 화면\Project\Project\obj\Debug\Project_MarkupCompile.lref
+C:\Documents and Settings\admin\바탕 화면\Project\Project\obj\Debug\Window1.baml
+C:\Documents and Settings\admin\바탕 화면\Project\Project\obj\Debug\Project.g.resources
+C:\Documents and Settings\admin\바탕 화면\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Documents and Settings\admin\바탕 화면\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Documents and Settings\admin\바탕 화면\Project\Project\obj\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\Project\Project\obj\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\Project\Project\obj\Debug\AirCon.baml
+C:\Documents and Settings\admin\바탕 화면\Project\Project\obj\Debug\Audio.baml
+C:\Documents and Settings\admin\바탕 화면\Project\Project\obj\Debug\Display.baml
+C:\Documents and Settings\admin\바탕 화면\Project\Project\obj\Debug\Navigation.baml
+C:\Documents and Settings\admin\바탕 화면\Project\Project\obj\Debug\AirCon.g.cs
+C:\Documents and Settings\admin\바탕 화면\Project\Project\obj\Debug\Audio.g.cs
+C:\Documents and Settings\admin\바탕 화면\Project\Project\obj\Debug\Display.g.cs
+C:\Documents and Settings\admin\바탕 화면\Project\Project\obj\Debug\Navigation.g.cs
+C:\Documents and Settings\admin\바탕 화면\Project\Project\obj\Debug\DangerSign.baml
+C:\Documents and Settings\admin\바탕 화면\Project\Project\obj\Debug\DangerSign.g.cs
+C:\Documents and Settings\admin\바탕 화면\Project\Project\obj\Debug\Hand.baml
+C:\Documents and Settings\admin\바탕 화면\Project\Project\obj\Debug\Hand.g.cs
+C:\Documents and Settings\admin\바탕 화면\Project\Project\obj\Debug\VoiceControl.baml
+C:\Documents and Settings\admin\바탕 화면\Project\Project\obj\Debug\VoiceControl.g.cs
+C:\Documents and Settings\admin\바탕 화면\Project\Project\obj\Debug\Setting.baml
+C:\Documents and Settings\admin\바탕 화면\Project\Project\obj\Debug\Setting.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중\Project\Project\bin\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\김동중\Project\Project\bin\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\김동중\Project\Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\바탕 화면\김동중\Project\Project\obj\Debug\AirCon.baml
+C:\Documents and Settings\admin\바탕 화면\김동중\Project\Project\obj\Debug\Audio.baml
+C:\Documents and Settings\admin\바탕 화면\김동중\Project\Project\obj\Debug\DangerSign.baml
+C:\Documents and Settings\admin\바탕 화면\김동중\Project\Project\obj\Debug\Display.baml
+C:\Documents and Settings\admin\바탕 화면\김동중\Project\Project\obj\Debug\Hand.baml
+C:\Documents and Settings\admin\바탕 화면\김동중\Project\Project\obj\Debug\Navigation.baml
+C:\Documents and Settings\admin\바탕 화면\김동중\Project\Project\obj\Debug\Setting.baml
+C:\Documents and Settings\admin\바탕 화면\김동중\Project\Project\obj\Debug\UserControl1.baml
+C:\Documents and Settings\admin\바탕 화면\김동중\Project\Project\obj\Debug\VoiceControl.baml
+C:\Documents and Settings\admin\바탕 화면\김동중\Project\Project\obj\Debug\Window2.baml
+C:\Documents and Settings\admin\바탕 화면\김동중\Project\Project\obj\Debug\AirCon.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중\Project\Project\obj\Debug\Audio.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중\Project\Project\obj\Debug\DangerSign.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중\Project\Project\obj\Debug\Display.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중\Project\Project\obj\Debug\Hand.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중\Project\Project\obj\Debug\Navigation.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중\Project\Project\obj\Debug\Setting.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중\Project\Project\obj\Debug\UserControl1.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중\Project\Project\obj\Debug\VoiceControl.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중\Project\Project\obj\Debug\Window1.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중\Project\Project\obj\Debug\Window2.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중\Project\Project\obj\Debug\App.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중\Project\Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중\Project\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Documents and Settings\admin\바탕 화면\김동중\Project\Project\obj\Debug\Project_MarkupCompile.lref
+C:\Documents and Settings\admin\바탕 화면\김동중\Project\Project\obj\Debug\Window1.baml
+C:\Documents and Settings\admin\바탕 화면\김동중\Project\Project\obj\Debug\Project.g.resources
+C:\Documents and Settings\admin\바탕 화면\김동중\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Documents and Settings\admin\바탕 화면\김동중\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Documents and Settings\admin\바탕 화면\김동중\Project\Project\obj\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\김동중\Project\Project\obj\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\Project (5)\Project\obj\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\Project (5)\Project\obj\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\Project (5)\Project\bin\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\Project (5)\Project\bin\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\Project (5)\Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\바탕 화면\Project (5)\Project\obj\Debug\AirCon.baml
+C:\Documents and Settings\admin\바탕 화면\Project (5)\Project\obj\Debug\Audio.baml
+C:\Documents and Settings\admin\바탕 화면\Project (5)\Project\obj\Debug\DangerSign.baml
+C:\Documents and Settings\admin\바탕 화면\Project (5)\Project\obj\Debug\Display.baml
+C:\Documents and Settings\admin\바탕 화면\Project (5)\Project\obj\Debug\Hand.baml
+C:\Documents and Settings\admin\바탕 화면\Project (5)\Project\obj\Debug\Navigation.baml
+C:\Documents and Settings\admin\바탕 화면\Project (5)\Project\obj\Debug\Setting.baml
+C:\Documents and Settings\admin\바탕 화면\Project (5)\Project\obj\Debug\UserControl1.baml
+C:\Documents and Settings\admin\바탕 화면\Project (5)\Project\obj\Debug\VoiceControl.baml
+C:\Documents and Settings\admin\바탕 화면\Project (5)\Project\obj\Debug\Window2.baml
+C:\Documents and Settings\admin\바탕 화면\Project (5)\Project\obj\Debug\AirCon.g.cs
+C:\Documents and Settings\admin\바탕 화면\Project (5)\Project\obj\Debug\Audio.g.cs
+C:\Documents and Settings\admin\바탕 화면\Project (5)\Project\obj\Debug\DangerSign.g.cs
+C:\Documents and Settings\admin\바탕 화면\Project (5)\Project\obj\Debug\Display.g.cs
+C:\Documents and Settings\admin\바탕 화면\Project (5)\Project\obj\Debug\Hand.g.cs
+C:\Documents and Settings\admin\바탕 화면\Project (5)\Project\obj\Debug\Navigation.g.cs
+C:\Documents and Settings\admin\바탕 화면\Project (5)\Project\obj\Debug\Setting.g.cs
+C:\Documents and Settings\admin\바탕 화면\Project (5)\Project\obj\Debug\UserControl1.g.cs
+C:\Documents and Settings\admin\바탕 화면\Project (5)\Project\obj\Debug\VoiceControl.g.cs
+C:\Documents and Settings\admin\바탕 화면\Project (5)\Project\obj\Debug\Window1.g.cs
+C:\Documents and Settings\admin\바탕 화면\Project (5)\Project\obj\Debug\Window2.g.cs
+C:\Documents and Settings\admin\바탕 화면\Project (5)\Project\obj\Debug\App.g.cs
+C:\Documents and Settings\admin\바탕 화면\Project (5)\Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\admin\바탕 화면\Project (5)\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Documents and Settings\admin\바탕 화면\Project (5)\Project\obj\Debug\Project_MarkupCompile.lref
+C:\Documents and Settings\admin\바탕 화면\Project (5)\Project\obj\Debug\Window1.baml
+C:\Documents and Settings\admin\바탕 화면\Project (5)\Project\obj\Debug\Project.g.resources
+C:\Documents and Settings\admin\바탕 화면\Project (5)\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Documents and Settings\admin\바탕 화면\Project (5)\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Documents and Settings\admin\바탕 화면\김동중(프로젝트,데모)\Project\Project\obj\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\김동중(프로젝트,데모)\Project\Project\obj\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\김동중(프로젝트,데모)\Project\Project\bin\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\김동중(프로젝트,데모)\Project\Project\bin\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\김동중(프로젝트,데모)\Project\Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\바탕 화면\김동중(프로젝트,데모)\Project\Project\obj\Debug\AirCon.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(프로젝트,데모)\Project\Project\obj\Debug\Audio.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(프로젝트,데모)\Project\Project\obj\Debug\Navigation.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(프로젝트,데모)\Project\Project\obj\Debug\Setting.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(프로젝트,데모)\Project\Project\obj\Debug\UserControl1.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(프로젝트,데모)\Project\Project\obj\Debug\Window2.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(프로젝트,데모)\Project\Project\obj\Debug\AirCon.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(프로젝트,데모)\Project\Project\obj\Debug\Audio.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(프로젝트,데모)\Project\Project\obj\Debug\Navigation.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(프로젝트,데모)\Project\Project\obj\Debug\Setting.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(프로젝트,데모)\Project\Project\obj\Debug\UserControl1.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(프로젝트,데모)\Project\Project\obj\Debug\Window1.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(프로젝트,데모)\Project\Project\obj\Debug\Window2.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(프로젝트,데모)\Project\Project\obj\Debug\App.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(프로젝트,데모)\Project\Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(프로젝트,데모)\Project\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Documents and Settings\admin\바탕 화면\김동중(프로젝트,데모)\Project\Project\obj\Debug\Project_MarkupCompile.lref
+C:\Documents and Settings\admin\바탕 화면\김동중(프로젝트,데모)\Project\Project\obj\Debug\Window1.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(프로젝트,데모)\Project\Project\obj\Debug\Project.g.resources
+C:\Documents and Settings\admin\바탕 화면\김동중(프로젝트,데모)\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Documents and Settings\admin\바탕 화면\김동중(프로젝트,데모)\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Documents and Settings\admin\바탕 화면\김동중(프로젝트,데모)\Project\Project\obj\Debug\WindowPosition.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(프로젝트,데모)\Project\Project\obj\Debug\WindowPosition.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(프로젝트,데모)\Project\Project\obj\Debug\WindowFontSize.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(프로젝트,데모)\Project\Project\obj\Debug\WindowFontSize.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(프로젝트,데모)\Project\Project\obj\Debug\WindowColor.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(프로젝트,데모)\Project\Project\obj\Debug\WindowColor.g.cs
+C:\Documents and Settings\admin\바탕 화면\메인프로그램(완성)\Project\obj\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\메인프로그램(완성)\Project\obj\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\메인프로그램(완성)\Project\bin\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\메인프로그램(완성)\Project\bin\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\메인프로그램(완성)\Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\바탕 화면\메인프로그램(완성)\Project\obj\Debug\AirCon.baml
+C:\Documents and Settings\admin\바탕 화면\메인프로그램(완성)\Project\obj\Debug\Audio.baml
+C:\Documents and Settings\admin\바탕 화면\메인프로그램(완성)\Project\obj\Debug\Navigation.baml
+C:\Documents and Settings\admin\바탕 화면\메인프로그램(완성)\Project\obj\Debug\Setting.baml
+C:\Documents and Settings\admin\바탕 화면\메인프로그램(완성)\Project\obj\Debug\UserControl1.baml
+C:\Documents and Settings\admin\바탕 화면\메인프로그램(완성)\Project\obj\Debug\Window2.baml
+C:\Documents and Settings\admin\바탕 화면\메인프로그램(완성)\Project\obj\Debug\WindowColor.baml
+C:\Documents and Settings\admin\바탕 화면\메인프로그램(완성)\Project\obj\Debug\WindowFontSize.baml
+C:\Documents and Settings\admin\바탕 화면\메인프로그램(완성)\Project\obj\Debug\WindowPosition.baml
+C:\Documents and Settings\admin\바탕 화면\메인프로그램(완성)\Project\obj\Debug\AirCon.g.cs
+C:\Documents and Settings\admin\바탕 화면\메인프로그램(완성)\Project\obj\Debug\Audio.g.cs
+C:\Documents and Settings\admin\바탕 화면\메인프로그램(완성)\Project\obj\Debug\Navigation.g.cs
+C:\Documents and Settings\admin\바탕 화면\메인프로그램(완성)\Project\obj\Debug\Setting.g.cs
+C:\Documents and Settings\admin\바탕 화면\메인프로그램(완성)\Project\obj\Debug\UserControl1.g.cs
+C:\Documents and Settings\admin\바탕 화면\메인프로그램(완성)\Project\obj\Debug\Window1.g.cs
+C:\Documents and Settings\admin\바탕 화면\메인프로그램(완성)\Project\obj\Debug\Window2.g.cs
+C:\Documents and Settings\admin\바탕 화면\메인프로그램(완성)\Project\obj\Debug\WindowColor.g.cs
+C:\Documents and Settings\admin\바탕 화면\메인프로그램(완성)\Project\obj\Debug\WindowFontSize.g.cs
+C:\Documents and Settings\admin\바탕 화면\메인프로그램(완성)\Project\obj\Debug\WindowPosition.g.cs
+C:\Documents and Settings\admin\바탕 화면\메인프로그램(완성)\Project\obj\Debug\App.g.cs
+C:\Documents and Settings\admin\바탕 화면\메인프로그램(완성)\Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\admin\바탕 화면\메인프로그램(완성)\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Documents and Settings\admin\바탕 화면\메인프로그램(완성)\Project\obj\Debug\Project_MarkupCompile.lref
+C:\Documents and Settings\admin\바탕 화면\메인프로그램(완성)\Project\obj\Debug\Window1.baml
+C:\Documents and Settings\admin\바탕 화면\메인프로그램(완성)\Project\obj\Debug\Project.g.resources
+C:\Documents and Settings\admin\바탕 화면\메인프로그램(완성)\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Documents and Settings\admin\바탕 화면\메인프로그램(완성)\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Documents and Settings\admin\바탕 화면\메인프로그램완성(테스트)\Project\obj\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\메인프로그램완성(테스트)\Project\bin\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\메인프로그램완성(테스트)\Project\bin\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\메인프로그램완성(테스트)\Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\바탕 화면\메인프로그램완성(테스트)\Project\obj\Debug\AirCon.baml
+C:\Documents and Settings\admin\바탕 화면\메인프로그램완성(테스트)\Project\obj\Debug\Audio.baml
+C:\Documents and Settings\admin\바탕 화면\메인프로그램완성(테스트)\Project\obj\Debug\Navigation.baml
+C:\Documents and Settings\admin\바탕 화면\메인프로그램완성(테스트)\Project\obj\Debug\Setting.baml
+C:\Documents and Settings\admin\바탕 화면\메인프로그램완성(테스트)\Project\obj\Debug\UserControl1.baml
+C:\Documents and Settings\admin\바탕 화면\메인프로그램완성(테스트)\Project\obj\Debug\Window2.baml
+C:\Documents and Settings\admin\바탕 화면\메인프로그램완성(테스트)\Project\obj\Debug\WindowColor.baml
+C:\Documents and Settings\admin\바탕 화면\메인프로그램완성(테스트)\Project\obj\Debug\WindowFontSize.baml
+C:\Documents and Settings\admin\바탕 화면\메인프로그램완성(테스트)\Project\obj\Debug\WindowPosition.baml
+C:\Documents and Settings\admin\바탕 화면\메인프로그램완성(테스트)\Project\obj\Debug\AirCon.g.cs
+C:\Documents and Settings\admin\바탕 화면\메인프로그램완성(테스트)\Project\obj\Debug\Audio.g.cs
+C:\Documents and Settings\admin\바탕 화면\메인프로그램완성(테스트)\Project\obj\Debug\Navigation.g.cs
+C:\Documents and Settings\admin\바탕 화면\메인프로그램완성(테스트)\Project\obj\Debug\Setting.g.cs
+C:\Documents and Settings\admin\바탕 화면\메인프로그램완성(테스트)\Project\obj\Debug\UserControl1.g.cs
+C:\Documents and Settings\admin\바탕 화면\메인프로그램완성(테스트)\Project\obj\Debug\Window1.g.cs
+C:\Documents and Settings\admin\바탕 화면\메인프로그램완성(테스트)\Project\obj\Debug\Window2.g.cs
+C:\Documents and Settings\admin\바탕 화면\메인프로그램완성(테스트)\Project\obj\Debug\WindowColor.g.cs
+C:\Documents and Settings\admin\바탕 화면\메인프로그램완성(테스트)\Project\obj\Debug\WindowFontSize.g.cs
+C:\Documents and Settings\admin\바탕 화면\메인프로그램완성(테스트)\Project\obj\Debug\WindowPosition.g.cs
+C:\Documents and Settings\admin\바탕 화면\메인프로그램완성(테스트)\Project\obj\Debug\App.g.cs
+C:\Documents and Settings\admin\바탕 화면\메인프로그램완성(테스트)\Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\admin\바탕 화면\메인프로그램완성(테스트)\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Documents and Settings\admin\바탕 화면\메인프로그램완성(테스트)\Project\obj\Debug\Project_MarkupCompile.lref
+C:\Documents and Settings\admin\바탕 화면\메인프로그램완성(테스트)\Project\obj\Debug\Window1.baml
+C:\Documents and Settings\admin\바탕 화면\메인프로그램완성(테스트)\Project\obj\Debug\Project.g.resources
+C:\Documents and Settings\admin\바탕 화면\메인프로그램완성(테스트)\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Documents and Settings\admin\바탕 화면\메인프로그램완성(테스트)\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Documents and Settings\admin\바탕 화면\메인프로그램완성(테스트)\Project\obj\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\메인프로그램완성(테스트)\Project\obj\Debug\UBackCar.baml
+C:\Documents and Settings\admin\바탕 화면\메인프로그램완성(테스트)\Project\obj\Debug\UFrontOfCar.baml
+C:\Documents and Settings\admin\바탕 화면\메인프로그램완성(테스트)\Project\obj\Debug\UBackCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\메인프로그램완성(테스트)\Project\obj\Debug\UFrontOfCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\메인프로그램완성(테스트)\Project\obj\Debug\UMySpeed.baml
+C:\Documents and Settings\admin\바탕 화면\메인프로그램완성(테스트)\Project\obj\Debug\UMySpeed.g.cs
+C:\Documents and Settings\admin\바탕 화면\12월21일1200\Project\obj\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\12월21일1200\Project\obj\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\12월21일1200\Project\bin\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\12월21일1200\Project\bin\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\12월21일1200\Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\바탕 화면\12월21일1200\Project\obj\Debug\AirCon.baml
+C:\Documents and Settings\admin\바탕 화면\12월21일1200\Project\obj\Debug\Audio.baml
+C:\Documents and Settings\admin\바탕 화면\12월21일1200\Project\obj\Debug\Navigation.baml
+C:\Documents and Settings\admin\바탕 화면\12월21일1200\Project\obj\Debug\Setting.baml
+C:\Documents and Settings\admin\바탕 화면\12월21일1200\Project\obj\Debug\UBackCar.baml
+C:\Documents and Settings\admin\바탕 화면\12월21일1200\Project\obj\Debug\UFrontOfCar.baml
+C:\Documents and Settings\admin\바탕 화면\12월21일1200\Project\obj\Debug\UMySpeed.baml
+C:\Documents and Settings\admin\바탕 화면\12월21일1200\Project\obj\Debug\UserControl1.baml
+C:\Documents and Settings\admin\바탕 화면\12월21일1200\Project\obj\Debug\Window2.baml
+C:\Documents and Settings\admin\바탕 화면\12월21일1200\Project\obj\Debug\WindowColor.baml
+C:\Documents and Settings\admin\바탕 화면\12월21일1200\Project\obj\Debug\WindowFontSize.baml
+C:\Documents and Settings\admin\바탕 화면\12월21일1200\Project\obj\Debug\WindowPosition.baml
+C:\Documents and Settings\admin\바탕 화면\12월21일1200\Project\obj\Debug\AirCon.g.cs
+C:\Documents and Settings\admin\바탕 화면\12월21일1200\Project\obj\Debug\Audio.g.cs
+C:\Documents and Settings\admin\바탕 화면\12월21일1200\Project\obj\Debug\Navigation.g.cs
+C:\Documents and Settings\admin\바탕 화면\12월21일1200\Project\obj\Debug\Setting.g.cs
+C:\Documents and Settings\admin\바탕 화면\12월21일1200\Project\obj\Debug\UBackCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\12월21일1200\Project\obj\Debug\UFrontOfCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\12월21일1200\Project\obj\Debug\UMySpeed.g.cs
+C:\Documents and Settings\admin\바탕 화면\12월21일1200\Project\obj\Debug\UserControl1.g.cs
+C:\Documents and Settings\admin\바탕 화면\12월21일1200\Project\obj\Debug\Window1.g.cs
+C:\Documents and Settings\admin\바탕 화면\12월21일1200\Project\obj\Debug\Window2.g.cs
+C:\Documents and Settings\admin\바탕 화면\12월21일1200\Project\obj\Debug\WindowColor.g.cs
+C:\Documents and Settings\admin\바탕 화면\12월21일1200\Project\obj\Debug\WindowFontSize.g.cs
+C:\Documents and Settings\admin\바탕 화면\12월21일1200\Project\obj\Debug\WindowPosition.g.cs
+C:\Documents and Settings\admin\바탕 화면\12월21일1200\Project\obj\Debug\App.g.cs
+C:\Documents and Settings\admin\바탕 화면\12월21일1200\Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\admin\바탕 화면\12월21일1200\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Documents and Settings\admin\바탕 화면\12월21일1200\Project\obj\Debug\Project_MarkupCompile.lref
+C:\Documents and Settings\admin\바탕 화면\12월21일1200\Project\obj\Debug\Window1.baml
+C:\Documents and Settings\admin\바탕 화면\12월21일1200\Project\obj\Debug\Project.g.resources
+C:\Documents and Settings\admin\바탕 화면\12월21일1200\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Documents and Settings\admin\바탕 화면\12월21일1200\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Documents and Settings\admin\바탕 화면\동중(프로젝트연습)\12월21일1200\Project\obj\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\동중(프로젝트연습)\12월21일1200\Project\obj\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\동중(프로젝트연습)\12월21일1200\Project\bin\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\동중(프로젝트연습)\12월21일1200\Project\bin\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\동중(프로젝트연습)\12월21일1200\Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\바탕 화면\동중(프로젝트연습)\12월21일1200\Project\obj\Debug\AirCon.baml
+C:\Documents and Settings\admin\바탕 화면\동중(프로젝트연습)\12월21일1200\Project\obj\Debug\Audio.baml
+C:\Documents and Settings\admin\바탕 화면\동중(프로젝트연습)\12월21일1200\Project\obj\Debug\Navigation.baml
+C:\Documents and Settings\admin\바탕 화면\동중(프로젝트연습)\12월21일1200\Project\obj\Debug\Setting.baml
+C:\Documents and Settings\admin\바탕 화면\동중(프로젝트연습)\12월21일1200\Project\obj\Debug\UBackCar.baml
+C:\Documents and Settings\admin\바탕 화면\동중(프로젝트연습)\12월21일1200\Project\obj\Debug\UFrontOfCar.baml
+C:\Documents and Settings\admin\바탕 화면\동중(프로젝트연습)\12월21일1200\Project\obj\Debug\UMySpeed.baml
+C:\Documents and Settings\admin\바탕 화면\동중(프로젝트연습)\12월21일1200\Project\obj\Debug\UserControl1.baml
+C:\Documents and Settings\admin\바탕 화면\동중(프로젝트연습)\12월21일1200\Project\obj\Debug\Window2.baml
+C:\Documents and Settings\admin\바탕 화면\동중(프로젝트연습)\12월21일1200\Project\obj\Debug\WindowColor.baml
+C:\Documents and Settings\admin\바탕 화면\동중(프로젝트연습)\12월21일1200\Project\obj\Debug\WindowFontSize.baml
+C:\Documents and Settings\admin\바탕 화면\동중(프로젝트연습)\12월21일1200\Project\obj\Debug\WindowPosition.baml
+C:\Documents and Settings\admin\바탕 화면\동중(프로젝트연습)\12월21일1200\Project\obj\Debug\AirCon.g.cs
+C:\Documents and Settings\admin\바탕 화면\동중(프로젝트연습)\12월21일1200\Project\obj\Debug\Audio.g.cs
+C:\Documents and Settings\admin\바탕 화면\동중(프로젝트연습)\12월21일1200\Project\obj\Debug\Navigation.g.cs
+C:\Documents and Settings\admin\바탕 화면\동중(프로젝트연습)\12월21일1200\Project\obj\Debug\Setting.g.cs
+C:\Documents and Settings\admin\바탕 화면\동중(프로젝트연습)\12월21일1200\Project\obj\Debug\UBackCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\동중(프로젝트연습)\12월21일1200\Project\obj\Debug\UFrontOfCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\동중(프로젝트연습)\12월21일1200\Project\obj\Debug\UMySpeed.g.cs
+C:\Documents and Settings\admin\바탕 화면\동중(프로젝트연습)\12월21일1200\Project\obj\Debug\UserControl1.g.cs
+C:\Documents and Settings\admin\바탕 화면\동중(프로젝트연습)\12월21일1200\Project\obj\Debug\Window1.g.cs
+C:\Documents and Settings\admin\바탕 화면\동중(프로젝트연습)\12월21일1200\Project\obj\Debug\Window2.g.cs
+C:\Documents and Settings\admin\바탕 화면\동중(프로젝트연습)\12월21일1200\Project\obj\Debug\WindowColor.g.cs
+C:\Documents and Settings\admin\바탕 화면\동중(프로젝트연습)\12월21일1200\Project\obj\Debug\WindowFontSize.g.cs
+C:\Documents and Settings\admin\바탕 화면\동중(프로젝트연습)\12월21일1200\Project\obj\Debug\WindowPosition.g.cs
+C:\Documents and Settings\admin\바탕 화면\동중(프로젝트연습)\12월21일1200\Project\obj\Debug\App.g.cs
+C:\Documents and Settings\admin\바탕 화면\동중(프로젝트연습)\12월21일1200\Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\admin\바탕 화면\동중(프로젝트연습)\12월21일1200\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Documents and Settings\admin\바탕 화면\동중(프로젝트연습)\12월21일1200\Project\obj\Debug\Project_MarkupCompile.lref
+C:\Documents and Settings\admin\바탕 화면\동중(프로젝트연습)\12월21일1200\Project\obj\Debug\Window1.baml
+C:\Documents and Settings\admin\바탕 화면\동중(프로젝트연습)\12월21일1200\Project\obj\Debug\Project.g.resources
+C:\Documents and Settings\admin\바탕 화면\동중(프로젝트연습)\12월21일1200\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Documents and Settings\admin\바탕 화면\동중(프로젝트연습)\12월21일1200\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Documents and Settings\admin\바탕 화면\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\프로그램(품질향상)\12월21일1200\Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\바탕 화면\프로그램(품질향상)\12월21일1200\Project\obj\Debug\AirCon.baml
+C:\Documents and Settings\admin\바탕 화면\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Audio.baml
+C:\Documents and Settings\admin\바탕 화면\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Navigation.baml
+C:\Documents and Settings\admin\바탕 화면\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Setting.baml
+C:\Documents and Settings\admin\바탕 화면\프로그램(품질향상)\12월21일1200\Project\obj\Debug\UBackCar.baml
+C:\Documents and Settings\admin\바탕 화면\프로그램(품질향상)\12월21일1200\Project\obj\Debug\UFrontOfCar.baml
+C:\Documents and Settings\admin\바탕 화면\프로그램(품질향상)\12월21일1200\Project\obj\Debug\UMySpeed.baml
+C:\Documents and Settings\admin\바탕 화면\프로그램(품질향상)\12월21일1200\Project\obj\Debug\UserControl1.baml
+C:\Documents and Settings\admin\바탕 화면\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Window2.baml
+C:\Documents and Settings\admin\바탕 화면\프로그램(품질향상)\12월21일1200\Project\obj\Debug\WindowColor.baml
+C:\Documents and Settings\admin\바탕 화면\프로그램(품질향상)\12월21일1200\Project\obj\Debug\WindowFontSize.baml
+C:\Documents and Settings\admin\바탕 화면\프로그램(품질향상)\12월21일1200\Project\obj\Debug\WindowPosition.baml
+C:\Documents and Settings\admin\바탕 화면\프로그램(품질향상)\12월21일1200\Project\obj\Debug\AirCon.g.cs
+C:\Documents and Settings\admin\바탕 화면\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Audio.g.cs
+C:\Documents and Settings\admin\바탕 화면\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Navigation.g.cs
+C:\Documents and Settings\admin\바탕 화면\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Setting.g.cs
+C:\Documents and Settings\admin\바탕 화면\프로그램(품질향상)\12월21일1200\Project\obj\Debug\UBackCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\프로그램(품질향상)\12월21일1200\Project\obj\Debug\UFrontOfCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\프로그램(품질향상)\12월21일1200\Project\obj\Debug\UMySpeed.g.cs
+C:\Documents and Settings\admin\바탕 화면\프로그램(품질향상)\12월21일1200\Project\obj\Debug\UserControl1.g.cs
+C:\Documents and Settings\admin\바탕 화면\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Window1.g.cs
+C:\Documents and Settings\admin\바탕 화면\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Window2.g.cs
+C:\Documents and Settings\admin\바탕 화면\프로그램(품질향상)\12월21일1200\Project\obj\Debug\WindowColor.g.cs
+C:\Documents and Settings\admin\바탕 화면\프로그램(품질향상)\12월21일1200\Project\obj\Debug\WindowFontSize.g.cs
+C:\Documents and Settings\admin\바탕 화면\프로그램(품질향상)\12월21일1200\Project\obj\Debug\WindowPosition.g.cs
+C:\Documents and Settings\admin\바탕 화면\프로그램(품질향상)\12월21일1200\Project\obj\Debug\App.g.cs
+C:\Documents and Settings\admin\바탕 화면\프로그램(품질향상)\12월21일1200\Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\admin\바탕 화면\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Documents and Settings\admin\바탕 화면\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Project_MarkupCompile.lref
+C:\Documents and Settings\admin\바탕 화면\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Window1.baml
+C:\Documents and Settings\admin\바탕 화면\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Project.g.resources
+C:\Documents and Settings\admin\바탕 화면\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Documents and Settings\admin\바탕 화면\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Documents and Settings\admin\바탕 화면\프로그램(품질향상)\12월21일1200\Project\bin\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\프로그램(품질향상)\12월21일1200\Project\bin\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\프로그램(품질향상)\12월21일1200\Project\bin\Debug\OpenCvSharp.Blob.dll
+C:\Documents and Settings\admin\바탕 화면\프로그램(품질향상)\12월21일1200\Project\bin\Debug\OpenCvSharp.dll
+C:\Documents and Settings\admin\바탕 화면\프로그램(품질향상)\12월21일1200\Project\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Documents and Settings\admin\바탕 화면\프로그램(품질향상)\12월21일1200\Project\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Documents and Settings\admin\바탕 화면\프로그램(품질향상)\12월21일1200\Project\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Documents and Settings\admin\바탕 화면\프로그램(품질향상)\12월21일1200\Project\bin\Debug\OpenCvSharp.Blob.xml
+C:\Documents and Settings\admin\바탕 화면\프로그램(품질향상)\12월21일1200\Project\bin\Debug\OpenCvSharp.xml
+C:\Documents and Settings\admin\바탕 화면\프로그램(품질향상)\12월21일1200\Project\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Documents and Settings\admin\바탕 화면\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Project.Form1.resources
+C:\Documents and Settings\admin\바탕 화면\카메라메인프로그램\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\카메라메인프로그램\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\프로그램(품질향상)\12월21일1200\Project\obj\Debug\UFollowMe.baml
+C:\Documents and Settings\admin\바탕 화면\프로그램(품질향상)\12월21일1200\Project\obj\Debug\UFollowMe.g.cs
+C:\Documents and Settings\admin\바탕 화면\동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\동중\프로그램(품질향상)\12월21일1200\Project\bin\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\동중\프로그램(품질향상)\12월21일1200\Project\bin\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\동중\프로그램(품질향상)\12월21일1200\Project\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Documents and Settings\admin\바탕 화면\동중\프로그램(품질향상)\12월21일1200\Project\bin\Debug\OpenCvSharp.Blob.xml
+C:\Documents and Settings\admin\바탕 화면\동중\프로그램(품질향상)\12월21일1200\Project\bin\Debug\OpenCvSharp.xml
+C:\Documents and Settings\admin\바탕 화면\동중\프로그램(품질향상)\12월21일1200\Project\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Documents and Settings\admin\바탕 화면\동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\바탕 화면\동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\AirCon.baml
+C:\Documents and Settings\admin\바탕 화면\동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Audio.baml
+C:\Documents and Settings\admin\바탕 화면\동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Navigation.baml
+C:\Documents and Settings\admin\바탕 화면\동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Setting.baml
+C:\Documents and Settings\admin\바탕 화면\동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\UBackCar.baml
+C:\Documents and Settings\admin\바탕 화면\동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\UFollowMe.baml
+C:\Documents and Settings\admin\바탕 화면\동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\UFrontOfCar.baml
+C:\Documents and Settings\admin\바탕 화면\동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\UMySpeed.baml
+C:\Documents and Settings\admin\바탕 화면\동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\UserControl1.baml
+C:\Documents and Settings\admin\바탕 화면\동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Window2.baml
+C:\Documents and Settings\admin\바탕 화면\동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\WindowColor.baml
+C:\Documents and Settings\admin\바탕 화면\동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\WindowFontSize.baml
+C:\Documents and Settings\admin\바탕 화면\동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\WindowPosition.baml
+C:\Documents and Settings\admin\바탕 화면\동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\AirCon.g.cs
+C:\Documents and Settings\admin\바탕 화면\동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Audio.g.cs
+C:\Documents and Settings\admin\바탕 화면\동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Navigation.g.cs
+C:\Documents and Settings\admin\바탕 화면\동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Setting.g.cs
+C:\Documents and Settings\admin\바탕 화면\동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\UBackCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\UFollowMe.g.cs
+C:\Documents and Settings\admin\바탕 화면\동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\UFrontOfCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\UMySpeed.g.cs
+C:\Documents and Settings\admin\바탕 화면\동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\UserControl1.g.cs
+C:\Documents and Settings\admin\바탕 화면\동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Window1.g.cs
+C:\Documents and Settings\admin\바탕 화면\동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Window2.g.cs
+C:\Documents and Settings\admin\바탕 화면\동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\WindowColor.g.cs
+C:\Documents and Settings\admin\바탕 화면\동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\WindowFontSize.g.cs
+C:\Documents and Settings\admin\바탕 화면\동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\WindowPosition.g.cs
+C:\Documents and Settings\admin\바탕 화면\동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\App.g.cs
+C:\Documents and Settings\admin\바탕 화면\동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\admin\바탕 화면\동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Documents and Settings\admin\바탕 화면\동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Project_MarkupCompile.lref
+C:\Documents and Settings\admin\바탕 화면\동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Window1.baml
+C:\Documents and Settings\admin\바탕 화면\동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Project.g.resources
+C:\Documents and Settings\admin\바탕 화면\동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Project.Form1.resources
+C:\Documents and Settings\admin\바탕 화면\동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Documents and Settings\admin\바탕 화면\동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Documents and Settings\admin\바탕 화면\최신동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\최신동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\최신동중\프로그램(품질향상)\12월21일1200\Project\bin\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\최신동중\프로그램(품질향상)\12월21일1200\Project\bin\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\최신동중\프로그램(품질향상)\12월21일1200\Project\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Documents and Settings\admin\바탕 화면\최신동중\프로그램(품질향상)\12월21일1200\Project\bin\Debug\OpenCvSharp.Blob.xml
+C:\Documents and Settings\admin\바탕 화면\최신동중\프로그램(품질향상)\12월21일1200\Project\bin\Debug\OpenCvSharp.xml
+C:\Documents and Settings\admin\바탕 화면\최신동중\프로그램(품질향상)\12월21일1200\Project\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Documents and Settings\admin\바탕 화면\최신동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\바탕 화면\최신동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\AirCon.baml
+C:\Documents and Settings\admin\바탕 화면\최신동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Audio.baml
+C:\Documents and Settings\admin\바탕 화면\최신동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Navigation.baml
+C:\Documents and Settings\admin\바탕 화면\최신동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Setting.baml
+C:\Documents and Settings\admin\바탕 화면\최신동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\UBackCar.baml
+C:\Documents and Settings\admin\바탕 화면\최신동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\UFollowMe.baml
+C:\Documents and Settings\admin\바탕 화면\최신동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\UFrontOfCar.baml
+C:\Documents and Settings\admin\바탕 화면\최신동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\UMySpeed.baml
+C:\Documents and Settings\admin\바탕 화면\최신동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\UserControl1.baml
+C:\Documents and Settings\admin\바탕 화면\최신동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Window2.baml
+C:\Documents and Settings\admin\바탕 화면\최신동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\WindowColor.baml
+C:\Documents and Settings\admin\바탕 화면\최신동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\WindowFontSize.baml
+C:\Documents and Settings\admin\바탕 화면\최신동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\WindowPosition.baml
+C:\Documents and Settings\admin\바탕 화면\최신동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\AirCon.g.cs
+C:\Documents and Settings\admin\바탕 화면\최신동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Audio.g.cs
+C:\Documents and Settings\admin\바탕 화면\최신동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Navigation.g.cs
+C:\Documents and Settings\admin\바탕 화면\최신동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Setting.g.cs
+C:\Documents and Settings\admin\바탕 화면\최신동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\UBackCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\최신동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\UFollowMe.g.cs
+C:\Documents and Settings\admin\바탕 화면\최신동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\UFrontOfCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\최신동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\UMySpeed.g.cs
+C:\Documents and Settings\admin\바탕 화면\최신동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\UserControl1.g.cs
+C:\Documents and Settings\admin\바탕 화면\최신동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Window1.g.cs
+C:\Documents and Settings\admin\바탕 화면\최신동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Window2.g.cs
+C:\Documents and Settings\admin\바탕 화면\최신동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\WindowColor.g.cs
+C:\Documents and Settings\admin\바탕 화면\최신동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\WindowFontSize.g.cs
+C:\Documents and Settings\admin\바탕 화면\최신동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\WindowPosition.g.cs
+C:\Documents and Settings\admin\바탕 화면\최신동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\App.g.cs
+C:\Documents and Settings\admin\바탕 화면\최신동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\admin\바탕 화면\최신동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Documents and Settings\admin\바탕 화면\최신동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Project_MarkupCompile.lref
+C:\Documents and Settings\admin\바탕 화면\최신동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Window1.baml
+C:\Documents and Settings\admin\바탕 화면\최신동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Project.g.resources
+C:\Documents and Settings\admin\바탕 화면\최신동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Project.Form1.resources
+C:\Documents and Settings\admin\바탕 화면\최신동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Documents and Settings\admin\바탕 화면\최신동중\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Documents and Settings\admin\바탕 화면\프로그램(품질향상)\12월21일1200\Project\obj\Debug\UTrafficSign.baml
+C:\Documents and Settings\admin\바탕 화면\프로그램(품질향상)\12월21일1200\Project\obj\Debug\UTrafficSign.g.cs
+C:\Documents and Settings\admin\바탕 화면\최신동중\새 폴더\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\최신동중\새 폴더\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\최신동중\새 폴더\프로그램(품질향상)\12월21일1200\Project\bin\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\최신동중\새 폴더\프로그램(품질향상)\12월21일1200\Project\bin\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\최신동중\새 폴더\프로그램(품질향상)\12월21일1200\Project\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Documents and Settings\admin\바탕 화면\최신동중\새 폴더\프로그램(품질향상)\12월21일1200\Project\bin\Debug\OpenCvSharp.Blob.xml
+C:\Documents and Settings\admin\바탕 화면\최신동중\새 폴더\프로그램(품질향상)\12월21일1200\Project\bin\Debug\OpenCvSharp.xml
+C:\Documents and Settings\admin\바탕 화면\최신동중\새 폴더\프로그램(품질향상)\12월21일1200\Project\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Documents and Settings\admin\바탕 화면\최신동중\새 폴더\프로그램(품질향상)\12월21일1200\Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\바탕 화면\최신동중\새 폴더\프로그램(품질향상)\12월21일1200\Project\obj\Debug\AirCon.baml
+C:\Documents and Settings\admin\바탕 화면\최신동중\새 폴더\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Audio.baml
+C:\Documents and Settings\admin\바탕 화면\최신동중\새 폴더\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Navigation.baml
+C:\Documents and Settings\admin\바탕 화면\최신동중\새 폴더\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Setting.baml
+C:\Documents and Settings\admin\바탕 화면\최신동중\새 폴더\프로그램(품질향상)\12월21일1200\Project\obj\Debug\UBackCar.baml
+C:\Documents and Settings\admin\바탕 화면\최신동중\새 폴더\프로그램(품질향상)\12월21일1200\Project\obj\Debug\UFollowMe.baml
+C:\Documents and Settings\admin\바탕 화면\최신동중\새 폴더\프로그램(품질향상)\12월21일1200\Project\obj\Debug\UFrontOfCar.baml
+C:\Documents and Settings\admin\바탕 화면\최신동중\새 폴더\프로그램(품질향상)\12월21일1200\Project\obj\Debug\UMySpeed.baml
+C:\Documents and Settings\admin\바탕 화면\최신동중\새 폴더\프로그램(품질향상)\12월21일1200\Project\obj\Debug\UserControl1.baml
+C:\Documents and Settings\admin\바탕 화면\최신동중\새 폴더\프로그램(품질향상)\12월21일1200\Project\obj\Debug\UTrafficSign.baml
+C:\Documents and Settings\admin\바탕 화면\최신동중\새 폴더\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Window2.baml
+C:\Documents and Settings\admin\바탕 화면\최신동중\새 폴더\프로그램(품질향상)\12월21일1200\Project\obj\Debug\WindowColor.baml
+C:\Documents and Settings\admin\바탕 화면\최신동중\새 폴더\프로그램(품질향상)\12월21일1200\Project\obj\Debug\WindowFontSize.baml
+C:\Documents and Settings\admin\바탕 화면\최신동중\새 폴더\프로그램(품질향상)\12월21일1200\Project\obj\Debug\WindowPosition.baml
+C:\Documents and Settings\admin\바탕 화면\최신동중\새 폴더\프로그램(품질향상)\12월21일1200\Project\obj\Debug\AirCon.g.cs
+C:\Documents and Settings\admin\바탕 화면\최신동중\새 폴더\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Audio.g.cs
+C:\Documents and Settings\admin\바탕 화면\최신동중\새 폴더\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Navigation.g.cs
+C:\Documents and Settings\admin\바탕 화면\최신동중\새 폴더\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Setting.g.cs
+C:\Documents and Settings\admin\바탕 화면\최신동중\새 폴더\프로그램(품질향상)\12월21일1200\Project\obj\Debug\UBackCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\최신동중\새 폴더\프로그램(품질향상)\12월21일1200\Project\obj\Debug\UFollowMe.g.cs
+C:\Documents and Settings\admin\바탕 화면\최신동중\새 폴더\프로그램(품질향상)\12월21일1200\Project\obj\Debug\UFrontOfCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\최신동중\새 폴더\프로그램(품질향상)\12월21일1200\Project\obj\Debug\UMySpeed.g.cs
+C:\Documents and Settings\admin\바탕 화면\최신동중\새 폴더\프로그램(품질향상)\12월21일1200\Project\obj\Debug\UserControl1.g.cs
+C:\Documents and Settings\admin\바탕 화면\최신동중\새 폴더\프로그램(품질향상)\12월21일1200\Project\obj\Debug\UTrafficSign.g.cs
+C:\Documents and Settings\admin\바탕 화면\최신동중\새 폴더\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Window1.g.cs
+C:\Documents and Settings\admin\바탕 화면\최신동중\새 폴더\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Window2.g.cs
+C:\Documents and Settings\admin\바탕 화면\최신동중\새 폴더\프로그램(품질향상)\12월21일1200\Project\obj\Debug\WindowColor.g.cs
+C:\Documents and Settings\admin\바탕 화면\최신동중\새 폴더\프로그램(품질향상)\12월21일1200\Project\obj\Debug\WindowFontSize.g.cs
+C:\Documents and Settings\admin\바탕 화면\최신동중\새 폴더\프로그램(품질향상)\12월21일1200\Project\obj\Debug\WindowPosition.g.cs
+C:\Documents and Settings\admin\바탕 화면\최신동중\새 폴더\프로그램(품질향상)\12월21일1200\Project\obj\Debug\App.g.cs
+C:\Documents and Settings\admin\바탕 화면\최신동중\새 폴더\프로그램(품질향상)\12월21일1200\Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\admin\바탕 화면\최신동중\새 폴더\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Documents and Settings\admin\바탕 화면\최신동중\새 폴더\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Project_MarkupCompile.lref
+C:\Documents and Settings\admin\바탕 화면\최신동중\새 폴더\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Window1.baml
+C:\Documents and Settings\admin\바탕 화면\최신동중\새 폴더\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Project.g.resources
+C:\Documents and Settings\admin\바탕 화면\최신동중\새 폴더\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Project.Form1.resources
+C:\Documents and Settings\admin\바탕 화면\최신동중\새 폴더\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Documents and Settings\admin\바탕 화면\최신동중\새 폴더\프로그램(품질향상)\12월21일1200\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Documents and Settings\admin\바탕 화면\김동중(목요일)\12월21일1200\Project\obj\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\김동중(목요일)\12월21일1200\Project\obj\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\obj\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\obj\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\bin\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\bin\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\bin\Debug\OpenCvSharp.Blob.dll
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\bin\Debug\OpenCvSharp.dll
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\bin\Debug\OpenCvSharp.Blob.xml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\bin\Debug\OpenCvSharp.xml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\obj\Debug\AirCon.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\obj\Debug\Audio.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\obj\Debug\Navigation.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\obj\Debug\Setting.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\obj\Debug\UBackCar.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\obj\Debug\UFollowMe.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\obj\Debug\UFrontOfCar.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\obj\Debug\UMySpeed.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\obj\Debug\UserControl1.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\obj\Debug\UTrafficSign.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\obj\Debug\Window2.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\obj\Debug\WindowColor.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\obj\Debug\WindowFontSize.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\obj\Debug\WindowPosition.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\obj\Debug\AirCon.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\obj\Debug\Audio.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\obj\Debug\Navigation.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\obj\Debug\Setting.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\obj\Debug\UBackCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\obj\Debug\UFollowMe.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\obj\Debug\UFrontOfCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\obj\Debug\UMySpeed.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\obj\Debug\UserControl1.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\obj\Debug\UTrafficSign.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\obj\Debug\Window1.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\obj\Debug\Window2.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\obj\Debug\WindowColor.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\obj\Debug\WindowFontSize.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\obj\Debug\WindowPosition.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\obj\Debug\App.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\obj\Debug\Project_MarkupCompile.lref
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\obj\Debug\Window1.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\obj\Debug\Project.g.resources
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\obj\Debug\Project.Form1.resources
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\obj\Debug\SpeedTrackBar.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\12월21일1200\Project\obj\Debug\SpeedTrackBar.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\obj\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\obj\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\bin\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\bin\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\bin\Debug\OpenCvSharp.Blob.dll
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\bin\Debug\OpenCvSharp.dll
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\bin\Debug\OpenCvSharp.Blob.xml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\bin\Debug\OpenCvSharp.xml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\obj\Debug\AirCon.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\obj\Debug\Audio.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\obj\Debug\Navigation.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\obj\Debug\Setting.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\obj\Debug\SpeedTrackBar.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\obj\Debug\UBackCar.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\obj\Debug\UFollowMe.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\obj\Debug\UFrontOfCar.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\obj\Debug\UMySpeed.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\obj\Debug\UserControl1.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\obj\Debug\UTrafficSign.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\obj\Debug\Window2.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\obj\Debug\WindowColor.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\obj\Debug\WindowFontSize.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\obj\Debug\WindowPosition.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\obj\Debug\AirCon.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\obj\Debug\Audio.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\obj\Debug\Navigation.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\obj\Debug\Setting.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\obj\Debug\SpeedTrackBar.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\obj\Debug\UBackCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\obj\Debug\UFollowMe.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\obj\Debug\UFrontOfCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\obj\Debug\UMySpeed.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\obj\Debug\UserControl1.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\obj\Debug\UTrafficSign.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\obj\Debug\Window1.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\obj\Debug\Window2.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\obj\Debug\WindowColor.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\obj\Debug\WindowFontSize.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\obj\Debug\WindowPosition.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\obj\Debug\App.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\obj\Debug\Project_MarkupCompile.lref
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\obj\Debug\Window1.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\obj\Debug\Project.g.resources
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\obj\Debug\Project.Form1.resources
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월6일\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Documents and Settings\admin\바탕 화면\1월6일\Project\obj\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\1월6일\Project\obj\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\1월6일\Project\bin\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\1월6일\Project\bin\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\1월6일\Project\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Documents and Settings\admin\바탕 화면\1월6일\Project\bin\Debug\OpenCvSharp.Blob.xml
+C:\Documents and Settings\admin\바탕 화면\1월6일\Project\bin\Debug\OpenCvSharp.xml
+C:\Documents and Settings\admin\바탕 화면\1월6일\Project\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Documents and Settings\admin\바탕 화면\1월6일\Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\바탕 화면\1월6일\Project\obj\Debug\AirCon.baml
+C:\Documents and Settings\admin\바탕 화면\1월6일\Project\obj\Debug\Audio.baml
+C:\Documents and Settings\admin\바탕 화면\1월6일\Project\obj\Debug\Navigation.baml
+C:\Documents and Settings\admin\바탕 화면\1월6일\Project\obj\Debug\Setting.baml
+C:\Documents and Settings\admin\바탕 화면\1월6일\Project\obj\Debug\SpeedTrackBar.baml
+C:\Documents and Settings\admin\바탕 화면\1월6일\Project\obj\Debug\UBackCar.baml
+C:\Documents and Settings\admin\바탕 화면\1월6일\Project\obj\Debug\UFollowMe.baml
+C:\Documents and Settings\admin\바탕 화면\1월6일\Project\obj\Debug\UFrontOfCar.baml
+C:\Documents and Settings\admin\바탕 화면\1월6일\Project\obj\Debug\UMySpeed.baml
+C:\Documents and Settings\admin\바탕 화면\1월6일\Project\obj\Debug\UserControl1.baml
+C:\Documents and Settings\admin\바탕 화면\1월6일\Project\obj\Debug\UTrafficSign.baml
+C:\Documents and Settings\admin\바탕 화면\1월6일\Project\obj\Debug\Window2.baml
+C:\Documents and Settings\admin\바탕 화면\1월6일\Project\obj\Debug\WindowColor.baml
+C:\Documents and Settings\admin\바탕 화면\1월6일\Project\obj\Debug\WindowFontSize.baml
+C:\Documents and Settings\admin\바탕 화면\1월6일\Project\obj\Debug\WindowPosition.baml
+C:\Documents and Settings\admin\바탕 화면\1월6일\Project\obj\Debug\AirCon.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월6일\Project\obj\Debug\Audio.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월6일\Project\obj\Debug\Navigation.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월6일\Project\obj\Debug\Setting.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월6일\Project\obj\Debug\SpeedTrackBar.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월6일\Project\obj\Debug\UBackCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월6일\Project\obj\Debug\UFollowMe.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월6일\Project\obj\Debug\UFrontOfCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월6일\Project\obj\Debug\UMySpeed.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월6일\Project\obj\Debug\UserControl1.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월6일\Project\obj\Debug\UTrafficSign.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월6일\Project\obj\Debug\Window1.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월6일\Project\obj\Debug\Window2.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월6일\Project\obj\Debug\WindowColor.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월6일\Project\obj\Debug\WindowFontSize.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월6일\Project\obj\Debug\WindowPosition.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월6일\Project\obj\Debug\App.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월6일\Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월6일\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Documents and Settings\admin\바탕 화면\1월6일\Project\obj\Debug\Project_MarkupCompile.lref
+C:\Documents and Settings\admin\바탕 화면\1월6일\Project\obj\Debug\Window1.baml
+C:\Documents and Settings\admin\바탕 화면\1월6일\Project\obj\Debug\Project.g.resources
+C:\Documents and Settings\admin\바탕 화면\1월6일\Project\obj\Debug\Project.Form1.resources
+C:\Documents and Settings\admin\바탕 화면\1월6일\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Documents and Settings\admin\바탕 화면\1월6일\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\bin\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\bin\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\bin\Debug\OpenCvSharp.Blob.dll
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\bin\Debug\OpenCvSharp.dll
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\bin\Debug\OpenCvSharp.Blob.xml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\bin\Debug\OpenCvSharp.xml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\AirCon.baml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\Audio.baml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\Navigation.baml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\Setting.baml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\SpeedTrackBar.baml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\UBackCar.baml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\UFollowMe.baml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\UFrontOfCar.baml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\UMySpeed.baml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\UserControl1.baml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\UTrafficSign.baml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\Window2.baml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\WindowColor.baml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\WindowFontSize.baml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\WindowPosition.baml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\AirCon.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\Audio.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\Navigation.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\Setting.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\SpeedTrackBar.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\UBackCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\UFollowMe.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\UFrontOfCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\UMySpeed.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\UserControl1.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\UTrafficSign.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\Window1.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\Window2.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\WindowColor.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\WindowFontSize.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\WindowPosition.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\App.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\Project_MarkupCompile.lref
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\Project.g.resources
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\Project.Form1.resources
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\bin\Debug\Project.exe.config
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\obj\Debug\Window1.baml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월6일테스트\Project\bin\Debug\GesturesLIb.dll
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\bin\Debug\Project.exe.config
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\bin\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\bin\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\bin\Debug\GesturesLIb.dll
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\bin\Debug\OpenCvSharp.Blob.dll
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\bin\Debug\OpenCvSharp.dll
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\bin\Debug\OpenCvSharp.Blob.xml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\bin\Debug\OpenCvSharp.xml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\obj\Debug\AirCon.baml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\obj\Debug\Audio.baml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\obj\Debug\Navigation.baml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\obj\Debug\Setting.baml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\obj\Debug\SpeedTrackBar.baml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\obj\Debug\UBackCar.baml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\obj\Debug\UFollowMe.baml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\obj\Debug\UFrontOfCar.baml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\obj\Debug\UMySpeed.baml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\obj\Debug\UserControl1.baml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\obj\Debug\UTrafficSign.baml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\obj\Debug\Window2.baml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\obj\Debug\WindowColor.baml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\obj\Debug\WindowFontSize.baml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\obj\Debug\WindowPosition.baml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\obj\Debug\AirCon.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\obj\Debug\Audio.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\obj\Debug\Navigation.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\obj\Debug\Setting.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\obj\Debug\SpeedTrackBar.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\obj\Debug\UBackCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\obj\Debug\UFollowMe.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\obj\Debug\UFrontOfCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\obj\Debug\UMySpeed.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\obj\Debug\UserControl1.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\obj\Debug\UTrafficSign.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\obj\Debug\Window1.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\obj\Debug\Window2.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\obj\Debug\WindowColor.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\obj\Debug\WindowFontSize.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\obj\Debug\WindowPosition.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\obj\Debug\App.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\obj\Debug\Project_MarkupCompile.lref
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\obj\Debug\Window1.baml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\obj\Debug\Project.g.resources
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\obj\Debug\Project.Form1.resources
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\obj\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월10일검수용\Project\obj\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월12일검수용\Project\bin\Debug\Project.exe.config
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월12일검수용\Project\obj\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월12일검수용\Project\obj\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월12일검수용\Project\bin\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월12일검수용\Project\bin\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월12일검수용\Project\bin\Debug\GesturesLIb.dll
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월12일검수용\Project\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월12일검수용\Project\bin\Debug\OpenCvSharp.Blob.xml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월12일검수용\Project\bin\Debug\OpenCvSharp.xml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월12일검수용\Project\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월12일검수용\Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월12일검수용\Project\obj\Debug\AirCon.baml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월12일검수용\Project\obj\Debug\Audio.baml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월12일검수용\Project\obj\Debug\Navigation.baml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월12일검수용\Project\obj\Debug\Setting.baml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월12일검수용\Project\obj\Debug\SpeedTrackBar.baml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월12일검수용\Project\obj\Debug\UBackCar.baml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월12일검수용\Project\obj\Debug\UFollowMe.baml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월12일검수용\Project\obj\Debug\UFrontOfCar.baml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월12일검수용\Project\obj\Debug\UMySpeed.baml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월12일검수용\Project\obj\Debug\UserControl1.baml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월12일검수용\Project\obj\Debug\UTrafficSign.baml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월12일검수용\Project\obj\Debug\Window2.baml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월12일검수용\Project\obj\Debug\WindowColor.baml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월12일검수용\Project\obj\Debug\WindowFontSize.baml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월12일검수용\Project\obj\Debug\WindowPosition.baml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월12일검수용\Project\obj\Debug\AirCon.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월12일검수용\Project\obj\Debug\Audio.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월12일검수용\Project\obj\Debug\Navigation.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월12일검수용\Project\obj\Debug\Setting.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월12일검수용\Project\obj\Debug\SpeedTrackBar.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월12일검수용\Project\obj\Debug\UBackCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월12일검수용\Project\obj\Debug\UFollowMe.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월12일검수용\Project\obj\Debug\UFrontOfCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월12일검수용\Project\obj\Debug\UMySpeed.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월12일검수용\Project\obj\Debug\UserControl1.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월12일검수용\Project\obj\Debug\UTrafficSign.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월12일검수용\Project\obj\Debug\Window1.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월12일검수용\Project\obj\Debug\Window2.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월12일검수용\Project\obj\Debug\WindowColor.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월12일검수용\Project\obj\Debug\WindowFontSize.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월12일검수용\Project\obj\Debug\WindowPosition.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월12일검수용\Project\obj\Debug\App.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월12일검수용\Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월12일검수용\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월12일검수용\Project\obj\Debug\Project_MarkupCompile.lref
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월12일검수용\Project\obj\Debug\Window1.baml
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월12일검수용\Project\obj\Debug\Project.g.resources
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월12일검수용\Project\obj\Debug\Project.Form1.resources
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월12일검수용\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Documents and Settings\admin\바탕 화면\김동중검수용\1월12일검수용\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Documents and Settings\admin\바탕 화면\1월12일(완성)\Project\bin\Debug\Project.exe.config
+C:\Documents and Settings\admin\바탕 화면\1월12일(완성)\Project\obj\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\1월12일(완성)\Project\obj\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\1월12일(완성)\Project\bin\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\1월12일(완성)\Project\bin\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\1월12일(완성)\Project\bin\Debug\GesturesLIb.dll
+C:\Documents and Settings\admin\바탕 화면\1월12일(완성)\Project\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Documents and Settings\admin\바탕 화면\1월12일(완성)\Project\bin\Debug\OpenCvSharp.Blob.xml
+C:\Documents and Settings\admin\바탕 화면\1월12일(완성)\Project\bin\Debug\OpenCvSharp.xml
+C:\Documents and Settings\admin\바탕 화면\1월12일(완성)\Project\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Documents and Settings\admin\바탕 화면\1월12일(완성)\Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\바탕 화면\1월12일(완성)\Project\obj\Debug\AirCon.baml
+C:\Documents and Settings\admin\바탕 화면\1월12일(완성)\Project\obj\Debug\Audio.baml
+C:\Documents and Settings\admin\바탕 화면\1월12일(완성)\Project\obj\Debug\Navigation.baml
+C:\Documents and Settings\admin\바탕 화면\1월12일(완성)\Project\obj\Debug\Setting.baml
+C:\Documents and Settings\admin\바탕 화면\1월12일(완성)\Project\obj\Debug\SpeedTrackBar.baml
+C:\Documents and Settings\admin\바탕 화면\1월12일(완성)\Project\obj\Debug\UBackCar.baml
+C:\Documents and Settings\admin\바탕 화면\1월12일(완성)\Project\obj\Debug\UFollowMe.baml
+C:\Documents and Settings\admin\바탕 화면\1월12일(완성)\Project\obj\Debug\UFrontOfCar.baml
+C:\Documents and Settings\admin\바탕 화면\1월12일(완성)\Project\obj\Debug\UMySpeed.baml
+C:\Documents and Settings\admin\바탕 화면\1월12일(완성)\Project\obj\Debug\UserControl1.baml
+C:\Documents and Settings\admin\바탕 화면\1월12일(완성)\Project\obj\Debug\UTrafficSign.baml
+C:\Documents and Settings\admin\바탕 화면\1월12일(완성)\Project\obj\Debug\Window2.baml
+C:\Documents and Settings\admin\바탕 화면\1월12일(완성)\Project\obj\Debug\WindowColor.baml
+C:\Documents and Settings\admin\바탕 화면\1월12일(완성)\Project\obj\Debug\WindowFontSize.baml
+C:\Documents and Settings\admin\바탕 화면\1월12일(완성)\Project\obj\Debug\WindowPosition.baml
+C:\Documents and Settings\admin\바탕 화면\1월12일(완성)\Project\obj\Debug\AirCon.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월12일(완성)\Project\obj\Debug\Audio.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월12일(완성)\Project\obj\Debug\Navigation.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월12일(완성)\Project\obj\Debug\Setting.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월12일(완성)\Project\obj\Debug\SpeedTrackBar.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월12일(완성)\Project\obj\Debug\UBackCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월12일(완성)\Project\obj\Debug\UFollowMe.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월12일(완성)\Project\obj\Debug\UFrontOfCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월12일(완성)\Project\obj\Debug\UMySpeed.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월12일(완성)\Project\obj\Debug\UserControl1.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월12일(완성)\Project\obj\Debug\UTrafficSign.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월12일(완성)\Project\obj\Debug\Window1.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월12일(완성)\Project\obj\Debug\Window2.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월12일(완성)\Project\obj\Debug\WindowColor.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월12일(완성)\Project\obj\Debug\WindowFontSize.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월12일(완성)\Project\obj\Debug\WindowPosition.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월12일(완성)\Project\obj\Debug\App.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월12일(완성)\Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월12일(완성)\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Documents and Settings\admin\바탕 화면\1월12일(완성)\Project\obj\Debug\Project_MarkupCompile.lref
+C:\Documents and Settings\admin\바탕 화면\1월12일(완성)\Project\obj\Debug\Window1.baml
+C:\Documents and Settings\admin\바탕 화면\1월12일(완성)\Project\obj\Debug\Project.g.resources
+C:\Documents and Settings\admin\바탕 화면\1월12일(완성)\Project\obj\Debug\Project.Form1.resources
+C:\Documents and Settings\admin\바탕 화면\1월12일(완성)\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Documents and Settings\admin\바탕 화면\1월12일(완성)\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\bin\Debug\Project.exe.config
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\obj\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\obj\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\bin\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\bin\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\bin\Debug\GesturesLIb.dll
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\bin\Debug\OpenCvSharp.Blob.dll
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\bin\Debug\OpenCvSharp.dll
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\bin\Debug\OpenCvSharp.Blob.xml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\bin\Debug\OpenCvSharp.xml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\obj\Debug\AirCon.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\obj\Debug\Audio.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\obj\Debug\Navigation.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\obj\Debug\Setting.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\obj\Debug\SpeedTrackBar.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\obj\Debug\UBackCar.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\obj\Debug\UFollowMe.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\obj\Debug\UFrontOfCar.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\obj\Debug\UMySpeed.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\obj\Debug\UserControl1.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\obj\Debug\UTrafficSign.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\obj\Debug\Window2.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\obj\Debug\WindowColor.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\obj\Debug\WindowFontSize.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\obj\Debug\WindowPosition.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\obj\Debug\AirCon.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\obj\Debug\Audio.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\obj\Debug\Navigation.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\obj\Debug\Setting.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\obj\Debug\SpeedTrackBar.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\obj\Debug\UBackCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\obj\Debug\UFollowMe.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\obj\Debug\UFrontOfCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\obj\Debug\UMySpeed.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\obj\Debug\UserControl1.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\obj\Debug\UTrafficSign.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\obj\Debug\Window1.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\obj\Debug\Window2.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\obj\Debug\WindowColor.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\obj\Debug\WindowFontSize.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\obj\Debug\WindowPosition.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\obj\Debug\App.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\obj\Debug\Project_MarkupCompile.lref
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\obj\Debug\Window1.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\obj\Debug\Project.g.resources
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\obj\Debug\Project.Form1.resources
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\obj\Debug\MessageOfSpeed.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월12일(완성)\Project\obj\Debug\MessageOfSpeed.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\bin\Debug\Project.exe.config
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\obj\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\obj\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\bin\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\bin\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\bin\Debug\GesturesLIb.dll
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\bin\Debug\OpenCvSharp.Blob.xml
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\bin\Debug\OpenCvSharp.xml
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\obj\Debug\AirCon.baml
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\obj\Debug\Audio.baml
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\obj\Debug\MessageOfSpeed.baml
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\obj\Debug\Navigation.baml
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\obj\Debug\Setting.baml
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\obj\Debug\SpeedTrackBar.baml
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\obj\Debug\UBackCar.baml
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\obj\Debug\UFollowMe.baml
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\obj\Debug\UFrontOfCar.baml
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\obj\Debug\UMySpeed.baml
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\obj\Debug\UserControl1.baml
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\obj\Debug\UTrafficSign.baml
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\obj\Debug\Window2.baml
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\obj\Debug\WindowColor.baml
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\obj\Debug\WindowFontSize.baml
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\obj\Debug\WindowPosition.baml
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\obj\Debug\AirCon.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\obj\Debug\Audio.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\obj\Debug\MessageOfSpeed.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\obj\Debug\Navigation.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\obj\Debug\Setting.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\obj\Debug\SpeedTrackBar.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\obj\Debug\UBackCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\obj\Debug\UFollowMe.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\obj\Debug\UFrontOfCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\obj\Debug\UMySpeed.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\obj\Debug\UserControl1.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\obj\Debug\UTrafficSign.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\obj\Debug\Window1.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\obj\Debug\Window2.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\obj\Debug\WindowColor.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\obj\Debug\WindowFontSize.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\obj\Debug\WindowPosition.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\obj\Debug\App.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\obj\Debug\Project_MarkupCompile.lref
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\obj\Debug\Window1.baml
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\obj\Debug\Project.g.resources
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\obj\Debug\Project.Form1.resources
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Documents and Settings\admin\바탕 화면\1월16일(완성) (2)\Project\bin\Debug\SafetyEngineLib.pdb
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\bin\Debug\Project.exe.config
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\obj\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\obj\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\obj\Debug\AirCon.baml
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\obj\Debug\Audio.baml
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\obj\Debug\MessageOfSpeed.baml
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\obj\Debug\Navigation.baml
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\obj\Debug\Setting.baml
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\obj\Debug\SpeedTrackBar.baml
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\obj\Debug\UBackCar.baml
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\obj\Debug\UFollowMe.baml
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\obj\Debug\UFrontOfCar.baml
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\obj\Debug\UMySpeed.baml
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\obj\Debug\UserControl1.baml
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\obj\Debug\UTrafficSign.baml
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\obj\Debug\Window2.baml
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\obj\Debug\WindowColor.baml
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\obj\Debug\WindowFontSize.baml
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\obj\Debug\WindowPosition.baml
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\obj\Debug\AirCon.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\obj\Debug\Audio.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\obj\Debug\MessageOfSpeed.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\obj\Debug\Navigation.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\obj\Debug\Setting.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\obj\Debug\SpeedTrackBar.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\obj\Debug\UBackCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\obj\Debug\UFollowMe.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\obj\Debug\UFrontOfCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\obj\Debug\UMySpeed.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\obj\Debug\UserControl1.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\obj\Debug\UTrafficSign.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\obj\Debug\Window1.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\obj\Debug\Window2.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\obj\Debug\WindowColor.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\obj\Debug\WindowFontSize.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\obj\Debug\WindowPosition.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\obj\Debug\App.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\obj\Debug\Project_MarkupCompile.lref
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\obj\Debug\Window1.baml
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\obj\Debug\Project.g.resources
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\obj\Debug\Project.Form1.resources
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\bin\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\bin\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\bin\Debug\GesturesLIb.dll
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\bin\Debug\OpenCvSharp.Blob.xml
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\bin\Debug\OpenCvSharp.xml
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Documents and Settings\admin\바탕 화면\1월18일(완성)\Project\bin\Debug\SafetyEngineLib.pdb
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\bin\Debug\Project.exe.config
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\obj\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\obj\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\bin\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\bin\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\bin\Debug\GesturesLIb.dll
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\bin\Debug\OpenCvSharp.Blob.dll
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\bin\Debug\OpenCvSharp.dll
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\bin\Debug\OpenCvSharp.Blob.xml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\bin\Debug\OpenCvSharp.xml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\obj\Debug\AirCon.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\obj\Debug\Audio.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\obj\Debug\MessageOfSpeed.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\obj\Debug\Navigation.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\obj\Debug\Setting.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\obj\Debug\SpeedTrackBar.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\obj\Debug\UBackCar.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\obj\Debug\UFollowMe.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\obj\Debug\UFrontOfCar.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\obj\Debug\UMySpeed.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\obj\Debug\UserControl1.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\obj\Debug\UTrafficSign.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\obj\Debug\Window2.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\obj\Debug\WindowColor.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\obj\Debug\WindowFontSize.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\obj\Debug\WindowPosition.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\obj\Debug\AirCon.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\obj\Debug\Audio.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\obj\Debug\MessageOfSpeed.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\obj\Debug\Navigation.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\obj\Debug\Setting.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\obj\Debug\SpeedTrackBar.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\obj\Debug\UBackCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\obj\Debug\UFollowMe.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\obj\Debug\UFrontOfCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\obj\Debug\UMySpeed.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\obj\Debug\UserControl1.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\obj\Debug\UTrafficSign.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\obj\Debug\Window1.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\obj\Debug\Window2.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\obj\Debug\WindowColor.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\obj\Debug\WindowFontSize.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\obj\Debug\WindowPosition.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\obj\Debug\App.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\obj\Debug\Project_MarkupCompile.lref
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\obj\Debug\Window1.baml
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\obj\Debug\Project.g.resources
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\obj\Debug\Project.Form1.resources
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Documents and Settings\admin\바탕 화면\김동중(최신)\1월18일앞차와거리\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\bin\Debug\Project.exe.config
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\obj\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\obj\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\bin\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\bin\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\bin\Debug\GesturesLIb.dll
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\bin\Debug\OpenCvSharp.Blob.xml
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\bin\Debug\OpenCvSharp.xml
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\obj\Debug\AirCon.baml
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\obj\Debug\Audio.baml
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\obj\Debug\MessageOfSpeed.baml
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\obj\Debug\Navigation.baml
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\obj\Debug\Setting.baml
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\obj\Debug\SpeedTrackBar.baml
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\obj\Debug\UBackCar.baml
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\obj\Debug\UFollowMe.baml
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\obj\Debug\UFrontOfCar.baml
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\obj\Debug\UMySpeed.baml
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\obj\Debug\UserControl1.baml
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\obj\Debug\UTrafficSign.baml
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\obj\Debug\Window2.baml
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\obj\Debug\WindowColor.baml
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\obj\Debug\WindowFontSize.baml
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\obj\Debug\WindowPosition.baml
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\obj\Debug\AirCon.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\obj\Debug\Audio.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\obj\Debug\MessageOfSpeed.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\obj\Debug\Navigation.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\obj\Debug\Setting.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\obj\Debug\SpeedTrackBar.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\obj\Debug\UBackCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\obj\Debug\UFollowMe.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\obj\Debug\UFrontOfCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\obj\Debug\UMySpeed.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\obj\Debug\UserControl1.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\obj\Debug\UTrafficSign.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\obj\Debug\Window1.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\obj\Debug\Window2.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\obj\Debug\WindowColor.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\obj\Debug\WindowFontSize.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\obj\Debug\WindowPosition.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\obj\Debug\App.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\obj\Debug\Project_MarkupCompile.lref
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\obj\Debug\Window1.baml
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\obj\Debug\Project.g.resources
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\obj\Debug\Project.Form1.resources
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Documents and Settings\admin\바탕 화면\1월18일앞차와거리\Project\bin\Debug\SafetyEngineLib.pdb
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\bin\Debug\Project.exe.config
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\obj\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\obj\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\bin\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\bin\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\bin\Debug\GesturesLIb.dll
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\bin\Debug\OpenCvSharp.Blob.dll
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\bin\Debug\OpenCvSharp.dll
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\bin\Debug\OpenCvSharp.Blob.xml
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\bin\Debug\OpenCvSharp.xml
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\bin\Debug\SafetyEngineLib.pdb
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\obj\Debug\AirCon.baml
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\obj\Debug\Audio.baml
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\obj\Debug\MessageOfSpeed.baml
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\obj\Debug\Navigation.baml
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\obj\Debug\Setting.baml
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\obj\Debug\SpeedTrackBar.baml
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\obj\Debug\UBackCar.baml
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\obj\Debug\UFollowMe.baml
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\obj\Debug\UFrontOfCar.baml
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\obj\Debug\UMySpeed.baml
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\obj\Debug\UserControl1.baml
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\obj\Debug\UTrafficSign.baml
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\obj\Debug\Window2.baml
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\obj\Debug\WindowColor.baml
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\obj\Debug\WindowFontSize.baml
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\obj\Debug\WindowPosition.baml
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\obj\Debug\AirCon.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\obj\Debug\Audio.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\obj\Debug\MessageOfSpeed.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\obj\Debug\Navigation.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\obj\Debug\Setting.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\obj\Debug\SpeedTrackBar.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\obj\Debug\UBackCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\obj\Debug\UFollowMe.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\obj\Debug\UFrontOfCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\obj\Debug\UMySpeed.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\obj\Debug\UserControl1.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\obj\Debug\UTrafficSign.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\obj\Debug\Window1.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\obj\Debug\Window2.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\obj\Debug\WindowColor.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\obj\Debug\WindowFontSize.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\obj\Debug\WindowPosition.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\obj\Debug\App.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\obj\Debug\Project_MarkupCompile.lref
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\obj\Debug\Window1.baml
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\obj\Debug\Project.g.resources
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\obj\Debug\Project.Form1.resources
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Documents and Settings\admin\바탕 화면\1월30일\1월30일앞차와거리\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\bin\Debug\Project.exe.config
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\obj\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\obj\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\bin\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\bin\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\bin\Debug\GesturesLIb.dll
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\bin\Debug\OpenCvSharp.Blob.xml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\bin\Debug\OpenCvSharp.xml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\bin\Debug\SafetyEngineLib.pdb
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\obj\Debug\AirCon.baml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\obj\Debug\Audio.baml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\obj\Debug\MessageOfSpeed.baml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\obj\Debug\Navigation.baml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\obj\Debug\Setting.baml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\obj\Debug\SpeedTrackBar.baml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\obj\Debug\UBackCar.baml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\obj\Debug\UFollowMe.baml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\obj\Debug\UFrontOfCar.baml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\obj\Debug\UMySpeed.baml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\obj\Debug\UserControl1.baml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\obj\Debug\UTrafficSign.baml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\obj\Debug\Window2.baml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\obj\Debug\WindowColor.baml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\obj\Debug\WindowFontSize.baml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\obj\Debug\WindowPosition.baml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\obj\Debug\AirCon.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\obj\Debug\Audio.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\obj\Debug\MessageOfSpeed.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\obj\Debug\Navigation.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\obj\Debug\Setting.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\obj\Debug\SpeedTrackBar.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\obj\Debug\UBackCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\obj\Debug\UFollowMe.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\obj\Debug\UFrontOfCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\obj\Debug\UMySpeed.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\obj\Debug\UserControl1.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\obj\Debug\UTrafficSign.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\obj\Debug\Window1.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\obj\Debug\Window2.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\obj\Debug\WindowColor.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\obj\Debug\WindowFontSize.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\obj\Debug\WindowPosition.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\obj\Debug\App.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\obj\Debug\Project_MarkupCompile.lref
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\obj\Debug\Window1.baml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\obj\Debug\Project.g.resources
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\obj\Debug\Project.Form1.resources
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월1일앞차와거리 (2)\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\bin\Debug\Project.exe.config
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\obj\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\obj\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\bin\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\bin\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\bin\Debug\GesturesLIb.dll
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\bin\Debug\OpenCvSharp.Blob.xml
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\bin\Debug\OpenCvSharp.xml
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\bin\Debug\SafetyEngineLib.pdb
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\obj\Debug\AirCon.baml
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\obj\Debug\Audio.baml
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\obj\Debug\MessageOfSpeed.baml
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\obj\Debug\Navigation.baml
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\obj\Debug\Setting.baml
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\obj\Debug\SpeedTrackBar.baml
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\obj\Debug\UBackCar.baml
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\obj\Debug\UFollowMe.baml
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\obj\Debug\UFrontOfCar.baml
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\obj\Debug\UMySpeed.baml
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\obj\Debug\UserControl1.baml
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\obj\Debug\UTrafficSign.baml
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\obj\Debug\Window2.baml
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\obj\Debug\WindowColor.baml
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\obj\Debug\WindowFontSize.baml
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\obj\Debug\WindowPosition.baml
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\obj\Debug\AirCon.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\obj\Debug\Audio.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\obj\Debug\MessageOfSpeed.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\obj\Debug\Navigation.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\obj\Debug\Setting.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\obj\Debug\SpeedTrackBar.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\obj\Debug\UBackCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\obj\Debug\UFollowMe.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\obj\Debug\UFrontOfCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\obj\Debug\UMySpeed.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\obj\Debug\UserControl1.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\obj\Debug\UTrafficSign.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\obj\Debug\Window1.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\obj\Debug\Window2.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\obj\Debug\WindowColor.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\obj\Debug\WindowFontSize.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\obj\Debug\WindowPosition.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\obj\Debug\App.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\obj\Debug\Project_MarkupCompile.lref
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\obj\Debug\Window1.baml
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\obj\Debug\Project.g.resources
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\obj\Debug\Project.Form1.resources
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Documents and Settings\admin\바탕 화면\2월1일앞차와거리 (2)\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\bin\Debug\Project.exe.config
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\obj\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\obj\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\bin\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\bin\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\bin\Debug\GesturesLIb.dll
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\bin\Debug\OpenCvSharp.Blob.xml
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\bin\Debug\OpenCvSharp.xml
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\bin\Debug\SafetyEngineLib.pdb
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\obj\Debug\AirCon.baml
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\obj\Debug\Audio.baml
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\obj\Debug\MessageOfSpeed.baml
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\obj\Debug\Navigation.baml
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\obj\Debug\Setting.baml
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\obj\Debug\SpeedTrackBar.baml
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\obj\Debug\UBackCar.baml
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\obj\Debug\UFollowMe.baml
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\obj\Debug\UFrontOfCar.baml
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\obj\Debug\UMySpeed.baml
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\obj\Debug\UserControl1.baml
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\obj\Debug\UTrafficSign.baml
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\obj\Debug\Window2.baml
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\obj\Debug\WindowColor.baml
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\obj\Debug\WindowFontSize.baml
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\obj\Debug\WindowPosition.baml
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\obj\Debug\AirCon.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\obj\Debug\Audio.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\obj\Debug\MessageOfSpeed.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\obj\Debug\Navigation.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\obj\Debug\Setting.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\obj\Debug\SpeedTrackBar.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\obj\Debug\UBackCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\obj\Debug\UFollowMe.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\obj\Debug\UFrontOfCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\obj\Debug\UMySpeed.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\obj\Debug\UserControl1.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\obj\Debug\UTrafficSign.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\obj\Debug\Window1.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\obj\Debug\Window2.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\obj\Debug\WindowColor.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\obj\Debug\WindowFontSize.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\obj\Debug\WindowPosition.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\obj\Debug\App.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\obj\Debug\Project_MarkupCompile.lref
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\obj\Debug\Window1.baml
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\obj\Debug\Project.g.resources
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\obj\Debug\Project.Form1.resources
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Documents and Settings\admin\바탕 화면\시연회메인프로그램(완성)\Project\bin\Debug\SignsDetectLib.pdb
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\bin\Debug\Project.exe.config
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\obj\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\obj\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\bin\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\bin\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\bin\Debug\GesturesLIb.dll
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\bin\Debug\SignsDetectLib.pdb
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\bin\Debug\OpenCvSharp.Blob.xml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\bin\Debug\OpenCvSharp.xml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\bin\Debug\SafetyEngineLib.pdb
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\obj\Debug\AirCon.baml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\obj\Debug\Audio.baml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\obj\Debug\MessageOfSpeed.baml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\obj\Debug\Navigation.baml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\obj\Debug\Setting.baml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\obj\Debug\SpeedTrackBar.baml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\obj\Debug\UBackCar.baml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\obj\Debug\UFollowMe.baml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\obj\Debug\UFrontOfCar.baml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\obj\Debug\UMySpeed.baml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\obj\Debug\UserControl1.baml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\obj\Debug\UTrafficSign.baml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\obj\Debug\Window2.baml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\obj\Debug\WindowColor.baml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\obj\Debug\WindowFontSize.baml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\obj\Debug\WindowPosition.baml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\obj\Debug\AirCon.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\obj\Debug\Audio.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\obj\Debug\MessageOfSpeed.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\obj\Debug\Navigation.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\obj\Debug\Setting.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\obj\Debug\SpeedTrackBar.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\obj\Debug\UBackCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\obj\Debug\UFollowMe.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\obj\Debug\UFrontOfCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\obj\Debug\UMySpeed.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\obj\Debug\UserControl1.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\obj\Debug\UTrafficSign.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\obj\Debug\Window1.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\obj\Debug\Window2.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\obj\Debug\WindowColor.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\obj\Debug\WindowFontSize.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\obj\Debug\WindowPosition.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\obj\Debug\App.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\obj\Debug\Project_MarkupCompile.lref
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\obj\Debug\Window1.baml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\obj\Debug\Project.g.resources
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\obj\Debug\Project.Form1.resources
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Documents and Settings\admin\바탕 화면\시연회연습\시연회메인프로그램2월7일\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\bin\Debug\Project.exe.config
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\obj\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\obj\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\bin\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\bin\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\bin\Debug\GesturesLIb.dll
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\bin\Debug\SignsDetectLib.pdb
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\bin\Debug\OpenCvSharp.Blob.xml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\bin\Debug\OpenCvSharp.xml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\bin\Debug\SafetyEngineLib.pdb
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\obj\Debug\AirCon.baml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\obj\Debug\Audio.baml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\obj\Debug\MessageOfSpeed.baml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\obj\Debug\Navigation.baml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\obj\Debug\Setting.baml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\obj\Debug\SpeedTrackBar.baml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\obj\Debug\UBackCar.baml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\obj\Debug\UFollowMe.baml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\obj\Debug\UFrontOfCar.baml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\obj\Debug\UMySpeed.baml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\obj\Debug\UserControl1.baml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\obj\Debug\UTrafficSign.baml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\obj\Debug\Window2.baml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\obj\Debug\WindowColor.baml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\obj\Debug\WindowFontSize.baml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\obj\Debug\WindowPosition.baml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\obj\Debug\AirCon.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\obj\Debug\Audio.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\obj\Debug\MessageOfSpeed.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\obj\Debug\Navigation.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\obj\Debug\Setting.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\obj\Debug\SpeedTrackBar.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\obj\Debug\UBackCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\obj\Debug\UFollowMe.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\obj\Debug\UFrontOfCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\obj\Debug\UMySpeed.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\obj\Debug\UserControl1.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\obj\Debug\UTrafficSign.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\obj\Debug\Window1.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\obj\Debug\Window2.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\obj\Debug\WindowColor.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\obj\Debug\WindowFontSize.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\obj\Debug\WindowPosition.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\obj\Debug\App.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\obj\Debug\Project_MarkupCompile.lref
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\obj\Debug\Window1.baml
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\obj\Debug\Project.g.resources
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\obj\Debug\Project.Form1.resources
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Documents and Settings\admin\바탕 화면\시연회연습\2월7일 (시연회)\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\bin\Debug\Project.exe.config
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\obj\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\obj\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\bin\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\bin\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\bin\Debug\GesturesLIb.dll
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\bin\Debug\SignsDetectLib.pdb
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\bin\Debug\OpenCvSharp.Blob.xml
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\bin\Debug\OpenCvSharp.xml
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\bin\Debug\SafetyEngineLib.pdb
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\obj\Debug\AirCon.baml
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\obj\Debug\Audio.baml
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\obj\Debug\MessageOfSpeed.baml
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\obj\Debug\Navigation.baml
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\obj\Debug\Setting.baml
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\obj\Debug\SpeedTrackBar.baml
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\obj\Debug\UBackCar.baml
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\obj\Debug\UFollowMe.baml
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\obj\Debug\UFrontOfCar.baml
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\obj\Debug\UMySpeed.baml
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\obj\Debug\UserControl1.baml
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\obj\Debug\UTrafficSign.baml
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\obj\Debug\Window2.baml
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\obj\Debug\WindowColor.baml
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\obj\Debug\WindowFontSize.baml
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\obj\Debug\WindowPosition.baml
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\obj\Debug\AirCon.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\obj\Debug\Audio.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\obj\Debug\MessageOfSpeed.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\obj\Debug\Navigation.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\obj\Debug\Setting.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\obj\Debug\SpeedTrackBar.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\obj\Debug\UBackCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\obj\Debug\UFollowMe.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\obj\Debug\UFrontOfCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\obj\Debug\UMySpeed.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\obj\Debug\UserControl1.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\obj\Debug\UTrafficSign.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\obj\Debug\Window1.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\obj\Debug\Window2.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\obj\Debug\WindowColor.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\obj\Debug\WindowFontSize.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\obj\Debug\WindowPosition.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\obj\Debug\App.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\obj\Debug\Project_MarkupCompile.lref
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\obj\Debug\Window1.baml
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\obj\Debug\Project.g.resources
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\obj\Debug\Project.Form1.resources
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Documents and Settings\admin\바탕 화면\2월8일 (시연회)\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\bin\Debug\Project.exe.config
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\obj\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\obj\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\bin\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\bin\Debug\Project.pdb
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\bin\Debug\GesturesLIb.dll
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\bin\Debug\SignsDetectLib.pdb
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\bin\Debug\OpenCvSharp.Blob.xml
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\bin\Debug\OpenCvSharp.xml
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\bin\Debug\SafetyEngineLib.pdb
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\obj\Debug\AirCon.baml
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\obj\Debug\Audio.baml
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\obj\Debug\MessageOfSpeed.baml
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\obj\Debug\Navigation.baml
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\obj\Debug\Setting.baml
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\obj\Debug\SpeedTrackBar.baml
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\obj\Debug\UBackCar.baml
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\obj\Debug\UFollowMe.baml
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\obj\Debug\UFrontOfCar.baml
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\obj\Debug\UMySpeed.baml
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\obj\Debug\UserControl1.baml
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\obj\Debug\UTrafficSign.baml
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\obj\Debug\Window2.baml
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\obj\Debug\WindowColor.baml
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\obj\Debug\WindowFontSize.baml
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\obj\Debug\WindowPosition.baml
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\obj\Debug\AirCon.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\obj\Debug\Audio.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\obj\Debug\MessageOfSpeed.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\obj\Debug\Navigation.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\obj\Debug\Setting.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\obj\Debug\SpeedTrackBar.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\obj\Debug\UBackCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\obj\Debug\UFollowMe.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\obj\Debug\UFrontOfCar.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\obj\Debug\UMySpeed.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\obj\Debug\UserControl1.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\obj\Debug\UTrafficSign.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\obj\Debug\Window1.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\obj\Debug\Window2.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\obj\Debug\WindowColor.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\obj\Debug\WindowFontSize.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\obj\Debug\WindowPosition.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\obj\Debug\App.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\obj\Debug\Project_MarkupCompile.lref
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\obj\Debug\Window1.baml
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\obj\Debug\Project.g.resources
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\obj\Debug\Project.Form1.resources
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Documents and Settings\admin\바탕 화면\2월9일 (시연회)\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Documents and Settings\admin\바탕 화면\SunMoonBit 22\2월9일 (시연회)\Project\bin\Debug\Project.exe.config
+C:\Documents and Settings\admin\바탕 화면\SunMoonBit 22\2월9일 (시연회)\Project\obj\Debug\Project.exe
+C:\Documents and Settings\admin\바탕 화면\SunMoonBit 22\2월9일 (시연회)\Project\obj\Debug\Project.pdb

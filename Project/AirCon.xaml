@@ -1,0 +1,34 @@
+﻿<UserControl x:Class="Project.AirCon"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"  
+    Height="400" Width="200">
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Label  Opacity="0.7"  Name="MyMax" Grid.Column="0" Grid.Row="0" VerticalAlignment="Center" HorizontalContentAlignment="Center" FontSize="30" FontWeight="ExtraBold" Foreground="Green" Loaded="MyMax_Loaded" MouseLeftButtonDown="MyMax_MouseLeftButtonDown">MAX</Label>
+        <Label  Opacity="0.7" Name="MyMin" Grid.Column="0" Grid.Row="4" VerticalAlignment="Center" HorizontalContentAlignment="Center" FontSize="30" FontWeight="ExtraBold" Foreground="Green" MouseLeftButtonDown="MyMin_MouseLeftButtonDown">MIN</Label>
+       <Label  Opacity="0.7" Name="MyTemp18"  Visibility="Hidden" Grid.Row="1"  VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="40" Foreground="Green" FontWeight="Heavy" Margin="0,50" Grid.RowSpan="2">18℃</Label>
+        <Label Opacity="0.7" Name="MyTemp19" Visibility="Hidden" Grid.Row="1"  VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="40" Foreground="Green" FontWeight="Heavy" Margin="0,50" Grid.RowSpan="2">19℃</Label>
+        <Label Opacity="0.7" Name="MyTemp20" Visibility="Hidden" Grid.Row="1"  VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="40" Foreground="Green" FontWeight="Heavy" Margin="0,50" Grid.RowSpan="2">20℃</Label>
+        <Label Opacity="0.7" Name="MyTemp21" Visibility="Hidden" Grid.Row="1"  VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="40" Foreground="Green" FontWeight="Heavy" Margin="0,50" Grid.RowSpan="2">21℃</Label>
+        <Label Opacity="0.7" Name="MyTemp22" Visibility="Hidden" Grid.Row="1"  VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="40" Foreground="Green" FontWeight="Heavy" Margin="0,50" Grid.RowSpan="2">22℃</Label>
+        <Label Opacity="0.7" Name="MyTemp23" Visibility="Hidden" Grid.Row="1"  VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="40" Foreground="Green" FontWeight="Heavy" Margin="0,50" Grid.RowSpan="2">23℃</Label>
+        <Label Opacity="0.7" Name="MyTemp24" Visibility="Hidden" Grid.Row="1"  VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="40" Foreground="Green" FontWeight="Heavy" Margin="0,50" Grid.RowSpan="2">24℃</Label>
+        <Label Opacity="0.7" Name="MyTemp25" Visibility="Hidden" Grid.Row="1"  VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="40" Foreground="Green" FontWeight="Heavy" Margin="0,50" Grid.RowSpan="2">25℃</Label>
+        <Label Opacity="0.7" Name="MyTemp26" Visibility="Hidden" Grid.Row="1"  VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="40" Foreground="Green" FontWeight="Heavy" Margin="0,50" Grid.RowSpan="2">26℃</Label>
+        <Label Opacity="0.7" Name="MyTemp27" Visibility="Hidden" Grid.Row="1"  VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="40" Foreground="Green" FontWeight="Heavy" Margin="0,50" Grid.RowSpan="2">27℃</Label>
+        <Label Opacity="0.7" Name="MyTemp28" Visibility="Hidden" Grid.Row="1"  VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="40" Foreground="Green" FontWeight="Heavy" Margin="0,50" Grid.RowSpan="2">28℃</Label>
+        <Label Opacity="0.7" Name="MyTemp29" Visibility="Hidden" Grid.Row="1"  VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="40" Foreground="Green" FontWeight="Heavy" Margin="0,50" Grid.RowSpan="2">29℃</Label>
+        <Label Opacity="0.7" Name="MyTemp30" Visibility="Hidden" Grid.Row="1"  VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="40" Foreground="Green" FontWeight="Heavy" Margin="0,50" Grid.RowSpan="2">30℃</Label>
+        <Label Opacity="0.7"  Name="MyTemp31" Visibility="Hidden" Grid.Row="1"  VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="40" Foreground="Green" FontWeight="Heavy" Margin="0,50" Grid.RowSpan="2">31℃</Label>
+        <Label Opacity="0.7" Name="MyTemp32" Visibility="Hidden" Grid.Row="1"  VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="40" Foreground="Green" FontWeight="Heavy" Margin="0,50" Grid.RowSpan="2">32℃</Label>
+    </Grid>
+    
+    
+    
+</UserControl>

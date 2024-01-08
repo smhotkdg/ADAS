@@ -1,0 +1,20 @@
+﻿<UserControl x:Class="Project.MessageOfSpeed"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Height="70" Width="480" Loaded="UserControl_Loaded">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Label Opacity="0.7"  VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="40" Foreground="Red" FontWeight="Heavy" Name="overspeed30" Visibility="Hidden" >30km구간입니다.</Label>
+        <Label Opacity="0.7" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="40" Foreground="Red" FontWeight="Heavy" Name="overspeed40" Visibility="Hidden" >40km구간입니다.</Label>
+        <Label Opacity="0.7" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="40" Foreground="Red" FontWeight="Heavy" Name="overspeed50" Visibility="Hidden" >50km구간입니다.</Label>
+        <Label Opacity="0.7" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="40" Foreground="Red" FontWeight="Heavy" Name="overspeed80" Visibility="Hidden" >80km구간입니다.</Label>
+        <Label Opacity="0.7" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="40" Foreground="Red" FontWeight="Heavy" Name="overspeed100" Visibility="Hidden">100km구간입니다.</Label>
+
+
+    </Grid>
+</UserControl>

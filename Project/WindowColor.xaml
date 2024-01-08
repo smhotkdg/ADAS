@@ -1,0 +1,43 @@
+﻿<UserControl x:Class="Project.WindowColor"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+   Height="400" Width="200" Loaded="UserControl_Loaded">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition>
+            </ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Label Visibility="Visible"  Name="fontcolor" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="30" FontWeight="ExtraBold" Foreground="Green" Margin="0,1,0,0"  Height="100" VerticalAlignment="Top" MouseDoubleClick="fontcolor_MouseDoubleClick" Opacity="0.7">글자색깔</Label>
+        <Label Opacity="0.7" HorizontalContentAlignment="Center" FontSize="30" FontWeight="ExtraBold" Name="FontGreen" Foreground="Green" Margin="0,0,0,150" Height="44" VerticalAlignment="Bottom" Visibility="Visible">그린</Label>
+        <Label Opacity="0.7" HorizontalContentAlignment="Center" FontSize="30" FontWeight="ExtraBold" Name="FontOrange" Foreground="Orange" Margin="0,0,0,150" Height="44" VerticalAlignment="Bottom" Visibility="Hidden" >주황</Label>
+        <Label Opacity="0.7" HorizontalContentAlignment="Center" FontSize="30" FontWeight="ExtraBold" Name="FontBlack" Foreground="Black" Margin="0,0,0,150" Height="44" VerticalAlignment="Bottom" Visibility="Hidden" >검정색</Label>
+        <Label Opacity="0.7" HorizontalContentAlignment="Center" FontSize="30" FontWeight="ExtraBold" Name="FontViolet" Foreground="Violet" Margin="0,0,0,150" Height="44" VerticalAlignment="Bottom" Visibility="Hidden" >보라색</Label>
+        <Grid Opacity="0.7" Background="Transparent" Margin="4,0,0,55" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Left" Width="79" Height="45" VerticalAlignment="Bottom" MouseLeftButtonDown="Grid_MouseLeftButtonDown" >
+            <Grid.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform />
+                    <SkewTransform />
+                    <RotateTransform Angle="-180.216" />
+                    <TranslateTransform />
+                </TransformGroup>
+            </Grid.RenderTransform>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="20*" />
+                    <RowDefinition Height="25*" />
+                </Grid.RowDefinitions>
+                <Rectangle Name="MyRectangleStrokeOnLeft" Fill="Transparent" Stroke="Green" Margin="0,5.669,15.333,5.998" Grid.RowSpan="2" />
+                <Path Name="MyPathleStrokeOnLeft" Fill="Transparent" Stretch="Fill" Stroke="Green" HorizontalAlignment="Right" Width="16.5" Data="M128,117 L108.83333,98.833333 108.83333,131.83306 z" Grid.RowSpan="2" />
+            </Grid>
+        </Grid>
+        <Grid Opacity="0.7" Background="Transparent" HorizontalAlignment="Right" Margin="0,0,6,55" VerticalAlignment="Bottom" Width="70" Height="46" MouseLeftButtonDown="Grid_MouseLeftButtonDown_1" >
+            <Rectangle Name="MyRectangleStrokeOnRight" Fill="Transparent" Stroke="Green" Margin="-10,5.669,15.333,5.998" />
+            <Path Name="MyPathleStrokeOnRight" Fill="Transparent" Stretch="Fill" Stroke="Green" HorizontalAlignment="Right" Width="16.5" Data="M128,117 L108.83333,98.833333 108.83333,131.83306 z" />
+        </Grid>
+
+    </Grid>
+</UserControl>

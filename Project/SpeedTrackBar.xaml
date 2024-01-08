@@ -1,0 +1,53 @@
+﻿<UserControl x:Class="Project.SpeedTrackBar"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Height="50" Width="200" >
+    <Grid Loaded="Grid_Loaded" >
+       <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition ></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition ></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid Name="grid0" Grid.Column="2" Grid.ColumnSpan="2" Margin="49,0,1,0" Opacity="0.7" >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Label Grid.Column="3" Name="four1" Visibility="Hidden"  ></Label>
+            <Label Grid.Column="2" Name="four2" Visibility="Hidden"></Label>
+            <Label Grid.Column="1" Name="four3" Visibility="Hidden"></Label>
+            <Label Grid.Column="0" Name="four4" Visibility="Hidden"></Label>
+        </Grid>
+        <Grid Name="grid1"  Grid.Column="2" Opacity="0.7" >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Label Grid.Column="3" Name="thrid1" Visibility="Hidden"></Label>
+            <Label Grid.Column="2" Name="thrid2" Visibility="Hidden"></Label>
+            <Label Grid.Column="1" Name="thrid3" Visibility="Hidden"></Label>
+            <Label Grid.Column="0" Name="thrid4" Visibility="Hidden"></Label>
+        </Grid>
+        <Grid Name="grid2" Grid.Column="1" Opacity="0.7" >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Label Grid.Column="3" Name="secon1" Visibility="Hidden"></Label>
+            <Label Grid.Column="2" Name="secon2" Visibility="Hidden"></Label>
+            <Label Grid.Column="1" Name="secon3" Visibility="Hidden"></Label>
+            <Label Grid.Column="0" Name="secon4" Visibility="Hidden"></Label>
+        </Grid>
+        <Grid Name="grid3" Visibility="Hidden" Opacity="0.7" ></Grid>
+        
+    </Grid>
+   
+   
+</UserControl>
